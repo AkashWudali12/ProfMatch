@@ -1,5 +1,4 @@
 import React, { useRef } from 'react';
-import { X } from 'lucide-react';
 import { Button } from "../src/components/ui/button";
 
 interface EmailFormProps {
@@ -9,7 +8,7 @@ interface EmailFormProps {
   onClose: () => void;
 }
 
-const EmailForm: React.FC<EmailFormProps> = ({ emailAddress, subject, body, onClose }) => {
+const EmailForm: React.FC<EmailFormProps> = ({ emailAddress, subject, body }) => {
   const emailRef = useRef<HTMLInputElement>(null);
   const subjectRef = useRef<HTMLInputElement>(null);
   const bodyRef = useRef<HTMLTextAreaElement>(null);
@@ -26,14 +25,6 @@ const EmailForm: React.FC<EmailFormProps> = ({ emailAddress, subject, body, onCl
 
   return (
     <div className="w-full max-w-2xl border rounded-2xl bg-background p-8 relative">
-      {/* Close Button */}
-      <button
-        onClick={onClose}
-        className="absolute top-4 right-4 p-2 rounded-full hover:bg-muted transition-colors"
-        aria-label="Close"
-      >
-        <X size={32} />
-      </button>
       {/* Email Address */}
       <div className="mb-6">
         <label className="block text-lg font-medium mb-2">Email Address</label>
