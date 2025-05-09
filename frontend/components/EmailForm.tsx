@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, { useRef, useState } from 'react';
 import { Button } from "../src/components/ui/button";
 
 interface EmailFormProps {
@@ -12,15 +12,16 @@ const EmailForm: React.FC<EmailFormProps> = ({ emailAddress, subject, body }) =>
   const emailRef = useRef<HTMLInputElement>(null);
   const subjectRef = useRef<HTMLInputElement>(null);
   const bodyRef = useRef<HTMLTextAreaElement>(null);
+  const [copied, setCopied] = useState<string | null>(null);
 
-  const handleCopy = (ref: React.RefObject<HTMLInputElement | HTMLTextAreaElement | null>) => {
+  const handleCopy = (ref: React.RefObject<HTMLInputElement | HTMLTextAreaElement | null>, label: string) => {
     if (ref.current) {
-      ref.current.select();
-      document.execCommand('copy');
+      navigator.clipboard.writeText(ref.current.value);
     } else {
-      // Fallback: copy an empty string
       navigator.clipboard.writeText('');
     }
+    setCopied(label);
+    setTimeout(() => setCopied(null), 2000);
   };
 
   return (
@@ -57,10 +58,13 @@ const EmailForm: React.FC<EmailFormProps> = ({ emailAddress, subject, body }) =>
       </div>
       {/* Copy Buttons */}
       <div className="flex flex-col md:flex-row gap-4 justify-center mt-6">
-        <Button variant="outline" onClick={() => handleCopy(emailRef)} className="flex-1">Copy Email Address</Button>
-        <Button variant="outline" onClick={() => handleCopy(subjectRef)} className="flex-1">Copy Subject</Button>
-        <Button variant="outline" onClick={() => handleCopy(bodyRef)} className="flex-1">Copy Email</Button>
+        <Button variant="outline" onClick={() => handleCopy(emailRef, 'Email Address')} className="flex-1">Copy Email Address</Button>
+        <Button variant="outline" onClick={() => handleCopy(subjectRef, 'Subject')} className="flex-1">Copy Subject</Button>
+        <Button variant="outline" onClick={() => handleCopy(bodyRef, 'Email Body')} className="flex-1">Copy Email</Button>
       </div>
+      {copied && (
+        <div className="text-xs text-red-500 text-center mt-2">{copied} copied!</div>
+      )}
       {/* Disclaimer */}
       <div className="text-xs text-muted-foreground text-center mt-6">This is a draft email.</div>
     </div>
