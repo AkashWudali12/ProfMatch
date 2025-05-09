@@ -10,15 +10,14 @@ import {
   DialogContent,
   DialogOverlay,
   DialogPortal,
-  DialogTrigger,
 } from "@/components/ui/dialog";
 
 export default function Home() {
-  const [value, setValue] = useState("");
+  const [value, setValue] = useState<string>("");
   const [professors, setProfessors] = useState<Professor[]>([]);
-  const [dropdownValue, setDropdownValue] = useState("");
-  const [isLoading, setIsLoading] = useState(false);
-  const [emailDialogOpen, setEmailDialogOpen] = useState(false);
+  const [dropdownValue, setDropdownValue] = useState<string>("");
+  const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [emailDialogOpen, setEmailDialogOpen] = useState<boolean>(false);
   const [emailFormData, setEmailFormData] = useState<{
     emailAddress: string;
     subject: string;
@@ -54,36 +53,28 @@ export default function Home() {
     setDropdownValue(value);
   };
 
-  const handleSend = () => {
+  const handleSend = async () => {
     setIsLoading(true);
-    setTimeout(() => {
-      setIsLoading(false);
-      setProfessors([
-        ...professors,
-        {
-          id: 1,
-          uuid: "123",
-          name: "John Doe",
-          school: "University of Maryland",
-          description: "John Doe is a professor at the University of Maryland",
-          gscholar: "https://scholar.google.com/citations?user=123",
-          email_subject: "Hello",
-          email_body: "Hello, how are you?",
-          email_address: "john.doe@umd.edu",
-        },
-        {
-          id: 2,
-          uuid: "123",
-          name: "John Doe",
-          school: "University of Maryland",
-          description: "John Doe is a professor at the University of Maryland",
-          gscholar: "https://scholar.google.com/citations?user=123",
-          email_subject: "Hello",
-          email_body: "Hello, how are you?",
-          email_address: "john.doe@umd.edu",
-        },
-      ]);
-    }, 1000);
+    const queryProfessorsUrl = import.meta.env.VITE_QUERY_PROFESSORS_URL;
+    const response = await fetch(queryProfessorsUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ prompt: value, school: dropdownValue }),
+    })
+    if (response.ok) {  
+      const data = await response.json();
+      console.log("data: ", data);
+      if (data.professors) {
+        setProfessors(data.professors);
+      } else {
+        console.error("Failed to query professors");
+      }
+    } else {
+      console.error("Failed to query professors");
+    }
+    setIsLoading(false);
   };
 
   // Dummy handlers for top bar buttons
