@@ -19,8 +19,9 @@ app.add_middleware(
 def get_professors(request: PromptRequest):
     prompt = request.prompt
     school = request.school
+    embedding = request.resume_embedding
     time.sleep(1.5)
-    professors = vector_search(prompt, school)
+    professors = vector_search(prompt, school, embedding)  # returns list of uuids
     professors = rerank_professors(professors)
     
     return Response(
