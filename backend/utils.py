@@ -1,10 +1,11 @@
 from models import Professor
 
-def embed_text(text: str) -> list[float]:
+def embed_text(text: str, resume_embedding: list[float]) -> list[float]:
+    # use resume embedding to include resume in prompt as well
     return [0.1, 0.2, 0.3]
 
-def vector_search(query: str, school: str) -> list[Professor]:
-    query_vector = embed_text(query)
+def vector_search(query: str, school: str, resume_embedding: list[float]) -> list[Professor]:
+    query_vector = embed_text(query, resume_embedding)
 
     print("query_vector: ", query_vector)
 

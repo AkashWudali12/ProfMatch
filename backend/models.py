@@ -17,3 +17,9 @@ class Response(BaseModel):
 class PromptRequest(BaseModel):
     prompt: str
     school: str
+    resume_embedding: list[float]
+
+class RerunRequest(BaseModel):
+    prompt_embedding: list[float]
+    school: str
+    resume_embedding: list[float]
