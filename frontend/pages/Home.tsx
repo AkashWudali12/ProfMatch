@@ -61,7 +61,7 @@ export default function Home() {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ prompt: value, school: dropdownValue }),
+      body: JSON.stringify({ prompt: value, school: dropdownValue, resume_embedding: []}),
     })
     if (response.ok) {  
       const data = await response.json();
@@ -126,6 +126,20 @@ export default function Home() {
       {/* Main Content */}
       <div className="flex flex-col items-center justify-center flex-1">
         <div className="w-full max-w-4xl flex flex-col items-center">
+          {/* ProfMatch Logo */}
+          <div className="mb-6 flex flex-col items-center">
+            <span className="text-4xl font-extrabold tracking-tight text-primary drop-shadow-sm" style={{ letterSpacing: '0.04em' }}>
+              Prof
+              <span className="text-white bg-primary px-2 py-1 rounded shadow-md ml-1" style={{
+                color: 'white',
+                background: 'var(--color-primary, #1d4ed8)',
+                boxShadow: '0 2px 8px rgba(0,0,0,0.10)'
+              }}>
+                Match
+              </span>
+            </span>
+            <span className="text-base text-muted-foreground font-medium mt-1">Find your next research opportunity</span>
+          </div>
           <ChatBox 
             value={value}
             onChange={handleChange}
