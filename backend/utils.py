@@ -1,13 +1,41 @@
 from models import Professor
+import logging
+from sentence_transformers import SentenceTransformer
+from pinecone import Pinecone
+from dotenv import dotenv_values
+from universities import NAME_TO_ABBR
 
-def embed_text(text: str, resume_embedding: list[float]) -> list[float]:
-    # use resume embedding to include resume in prompt as well
-    return [0.1, 0.2, 0.3]
+config = dotenv_values(".env")
+pc = Pinecone(api_key=config["PINECONE_API_KEY"])
+index = pc.Index(config["PINECONE_INDEX"])
 
-def vector_search(query: str, school: str, resume_embedding: list[float]) -> list[Professor]:
-    query_vector = embed_text(query, resume_embedding)
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-    print("query_vector: ", query_vector)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(name)s %(levelname)s: %(message)s"
+)
+logger = logging.getLogger(__name__)
+
+def embed_text(text: str) -> list[float]:
+    # add noise to text embeddings 
+    embedding = model.encode(text)
+    logger.info(f"Embedding: {embedding}")
+    return embedding
+
+def vector_search(query: str, school: str, resume_embedding: list[float], previous_professors: list[str]) -> list[Professor]:
+    query_vector = embed_text(query)
+
+    # use resume embedding to rerank professors
+    response = index.query(
+        namespace=NAME_TO_ABBR[school],
+        top_k=10,
+        include_metadata=True,
+        vector=query_vector,
+        exclude_ids=previous_professors
+    )
+
+    logger.info("Response: ", response)
 
     # list of uuids of professors
     return [
