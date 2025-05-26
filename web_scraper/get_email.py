@@ -11,7 +11,7 @@ def get_email(name, affiliation):
     payload = {
         "model": "sonar",
         "messages": [
-            {"role": "system", "content": "Look for the email of researchers in faculty directories for universities."},
+            {"role": "system", "content": "Look for the email of researchers in faculty directories for universities. Find actual emails, not placeholders."},
             {"role": "user", "content": f"Find the email of {name} at {affiliation}. If you can't find their exact email, respond with 'Email not found'."},
         ],
     }
