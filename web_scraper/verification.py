@@ -9,12 +9,12 @@ headers = {"Authorization": f"Bearer {config['PERPLEXITY_API_KEY']}"}
 def valid_researcher(name, affiliation):
     print(f"Verifying {name} with affiliation {affiliation}")
     researcher_query = f"Is {name} currently a researcher, meaning is {name} primarily publishing research papers?"
-    retired_query = f"Is {name} not retired, and not a professor emeritus?"
+    retired_query = f"Is {name}, researcher at {affiliation}, not retired, and not a professor emeritus?"
     affiliation_query = f"Is {name} a researcher affiliated with {affiliation}?"
-    celebrity_query = f"Is {name} not a celebrity researcher. Only say No if they are extremely well known by the general public."
-    willingness_query = f"Be realistic. Would {name} be willing to mentor or work with high school or undergraduate students?"
+    celebrity_query = f"Is {name}, researcher at {affiliation}, not a celebrity researcher. Only say No if they are extremely well known by the general public."
+    willingness_query = f"Would {name}, researcher at {affiliation}, be potentially willing to mentor or work with undergraduate students?"
 
-    for query in [willingness_query, celebrity_query, retired_query, affiliation_query, researcher_query]:
+    for query in [researcher_query, retired_query, willingness_query, celebrity_query, affiliation_query]:
         payload = { 
             "model": "sonar",
             "messages": [

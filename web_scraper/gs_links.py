@@ -5,3 +5,7 @@ GS_LINKS = {
 ABBR_TO_NAME = {
     "umd": "University of Maryland",
 }
+
+NAME_TO_ABBR = {
+    "University of Maryland": "umd"
+}
