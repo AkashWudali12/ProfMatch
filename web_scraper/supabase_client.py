@@ -78,20 +78,17 @@ def insert_professor(school: str, name: str, email: str, href: str):
     else:
         print(f"[Supabase Client] Professor already exists: {name}")
 
-def insert_email_info(school, name, embedding_text, subject_template, body, description):
+def insert_embedding_text(school, name, embedding_text):
     first_name, middle_name_initial, last_name = get_name(name)
     response = supabase.table("professors").update({
-        "embedding_text": embedding_text,
-        "subject_template": subject_template,
-        "body": body, 
-        "description": description
+        "embedding_text": embedding_text
     }).match({
         "first_name": first_name,
         "middle_name_initial": middle_name_initial,
         "last_name": last_name,
         "university": school
     }).execute()
-    print(f"[Supabase Client] Response for insert_email_info:")
+    print(f"[Supabase Client] Response for insert_embedding_text:") 
     pprint(response)
     if len(response.data) != 0:
         print(f"[Supabase Client] Updated professor: {name}'s info")
@@ -99,3 +96,42 @@ def insert_email_info(school, name, embedding_text, subject_template, body, desc
     else:
         print(f"[Supabase Client] Error Updating Data for {name}")
         return ""
+
+def get_missing_professors():
+    # response = supabase.table("professors").select("*").is_("description", "null").eq("added_to_pinecone", False).not_.is_("university", "null").not_.is_("first_name", "null").not_.is_("last_name", "null").not_.is_("email", "null").not_.is_("gs_link", "null").not_.is_("embedding_text", "null").execute()
+
+    # for testing purposes, will not include embedding_text requirement
+    response = supabase.table("professors").select("*").is_("description", "null").eq("added_to_pinecone", False).not_.is_("university", "null").not_.is_("first_name", "null").not_.is_("last_name", "null").not_.is_("email", "null").not_.is_("gs_link", "null").execute()
+    print(f"[Supabase Client] Response for get_missing_professors:")
+    print(len(response.data))
+    if len(response.data) != 0:
+        print(f"[Supabase Client] Found {len(response.data)} missing professors")
+    else:
+        print(f"[Supabase Client] No missing professors found")
+    return response.data
+
+def update_description(uuid, description):
+    response = supabase.table("professors").update({
+        "description": description
+    }).match({
+        "id": uuid
+    }).execute()
+    print(f"[Supabase Client] Response for update_description:")
+    print(len(response.data))
+    if len(response.data) != 0:
+        print(f"[Supabase Client] Updated description for professor: {uuid}")
+    else:
+        print(f"[Supabase Client] Error Updating Description for {uuid}")
+
+def add_to_pinecone(uuid):
+    response = supabase.table("professors").update({
+        "added_to_pinecone": True
+    }).match({
+        "id": uuid
+    }).execute()
+    print(f"[Supabase Client] Response for add_to_pinecone:")
+    print(len(response.data))
+    if len(response.data) != 0:
+        print(f"[Supabase Client] Added professor to pinecone: {uuid}")
+    else:
+        print(f"[Supabase Client] Error Adding Professor to Pinecone: {uuid}")

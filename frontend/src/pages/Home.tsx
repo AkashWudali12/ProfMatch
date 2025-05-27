@@ -83,15 +83,11 @@ export default function Home() {
   // List of full university names
   const dropdownOptions = [
     "University of Maryland",
-    "Massachusetts Institute of Technology",
-    "University of California, Berkeley",
   ];
 
   // Mapping from full name to abbreviation
   const abbrMap: Record<string, string> = {
     "University of Maryland": "UMD",
-    "Massachusetts Institute of Technology": "MIT",
-    "University of California, Berkeley": "UCB",
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {

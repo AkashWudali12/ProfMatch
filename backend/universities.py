@@ -3,4 +3,3 @@ NAME_TO_ABBR = {
     "Massachusetts Institute of Technology": "mit",
     "University of California, Berkeley": "ucb",
 }
-
