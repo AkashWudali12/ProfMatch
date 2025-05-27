@@ -22,7 +22,7 @@ from pprint import pprint
 MAIN_URL = "https://scholar.google.com"
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-VECTOR_BATCH_SIZE = 1
+VECTOR_BATCH_SIZE = 10
 
 # Placeholder for proxy rotation
 PROXIES = [

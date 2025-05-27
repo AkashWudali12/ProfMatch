@@ -28,9 +28,10 @@ def get_professors(request: PromptRequest):
     start_time = time.time()    
     prompt = request.prompt
     school = request.school
+    previous_professors = request.previous_professors
     logger.info(f"Prompt: {prompt}, School: {school}")
     embedding = request.resume_embedding
-    professors = vector_search(prompt, school, embedding, [])  # returns list of uuids
+    professors = vector_search(prompt, school, embedding, previous_professors)  # returns list of uuids
     professors = rerank_professors(professors)
     end_time = time.time()
     logger.info(f"Time taken: {end_time - start_time} seconds")

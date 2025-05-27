@@ -1,5 +1,5 @@
 import React from 'react';
-import { RefreshCw, Send } from 'lucide-react';
+import { Send } from 'lucide-react';
 import {
   Select,
   SelectTrigger,
@@ -17,6 +17,7 @@ interface ChatBoxProps {
   onRerun: () => void;
   dropdownOptions: string[];
   abbrMap: Record<string, string>;
+  credits: number;
 }
 
 const MAX_CHAR = 300;
@@ -30,8 +31,10 @@ export const ChatBox: React.FC<ChatBoxProps> = ({
   onRerun,
   dropdownOptions,
   abbrMap,
+  credits,
 }) => {
-  const isDisabled = value.trim().length === 0 || value.length > MAX_CHAR || dropdownValue === "";
+  // temporary disable send button if no credits
+  const isDisabled = value.trim().length === 0 || value.length > MAX_CHAR || dropdownValue === "" || credits === 0;
 
   return (
     <div className="w-full max-w-4xl">
@@ -70,7 +73,7 @@ export const ChatBox: React.FC<ChatBoxProps> = ({
             </Select>
             {/* Buttons */}
             <div className="flex gap-6">
-              <button
+              {/* <button
                 type="button"
                 onClick={onRerun}
                 disabled={isDisabled}
@@ -78,7 +81,7 @@ export const ChatBox: React.FC<ChatBoxProps> = ({
                 aria-label="Rerun"
               >
                 <RefreshCw size={28} />
-              </button>
+              </button> */}
               <button
                 type="button"
                 onClick={onSend}

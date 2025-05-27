@@ -18,6 +18,7 @@ class PromptRequest(BaseModel):
     prompt: str
     school: str
     resume_embedding: list[float]
+    previous_professors: list[str] # list of uuids
 
 class RerunRequest(BaseModel):
     prompt_embedding: list[float]

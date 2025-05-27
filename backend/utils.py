@@ -20,22 +20,27 @@ logger = logging.getLogger(__name__)
 def embed_text(text: str) -> list[float]:
     # add noise to text embeddings 
     embedding = model.encode(text)
-    logger.info(f"Embedding: {embedding}")
     return embedding
 
 def vector_search(query: str, school: str, resume_embedding: list[float], previous_professors: list[str]) -> list[Professor]:
     query_vector = embed_text(query)
 
-    # use resume embedding to rerank professors
-    response = index.query(
-        namespace=NAME_TO_ABBR[school],
-        top_k=10,
-        include_metadata=True,
-        vector=query_vector,
-        exclude_ids=previous_professors
-    )
+    logger.info(f"Query: {query}")
+    logger.info(f"School: {school}")
+    logger.info(f"Query vector: {query_vector}")
+    logger.info(f"Namespace: {NAME_TO_ABBR[school]}")
+    logger.info(f"Previous professors: {previous_professors}")
 
-    logger.info("Response: ", response)
+    # use resume embedding to rerank professors
+    # response = index.query(
+    #     namespace=NAME_TO_ABBR[school],
+    #     top_k=10,
+    #     include_metadata=True,
+    #     vector=query_vector,
+    #     exclude_ids=previous_professors
+    # )
+
+    # logger.info("Response: ", response)
 
     # list of uuids of professors
     return [

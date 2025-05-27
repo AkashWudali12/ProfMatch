@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import { Button } from "../src/components/ui/button";
+import { Button } from "./ui/button";
 
 interface EmailFormProps {
   emailAddress: string;
