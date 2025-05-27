@@ -7,9 +7,9 @@ class Professor(BaseModel):
     school: str
     description: str
     gscholar: str
-    email_subject: str
-    email_body: str
-    email_address: str
+    email_subject: str | None
+    email_body: str | None
+    email_address: str | None
 
 class Response(BaseModel):
     professors: list[Professor]
