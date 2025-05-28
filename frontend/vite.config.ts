@@ -13,6 +13,6 @@ export default defineConfig({
     },
   },
   preview: {
-    allowedHosts: ['profmatch.up.railway.app']
+    allowedHosts: ['profmatch.up.railway.app', 'profmatch.cc']
   }
 })
