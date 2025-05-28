@@ -20,7 +20,8 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",  # Development
         "http://localhost:4173",   # Production preview (Docker)
-        "https://profmatch.up.railway.app"
+        "https://profmatch.up.railway.app",
+        "https://profmatch.cc"
     ],
     allow_credentials=True,
     allow_methods=["*"],
