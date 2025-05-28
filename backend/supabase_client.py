@@ -33,7 +33,7 @@ def get_professors(uuids: list[str]) -> list[Professor]:
         to_ret.append(to_add)
         
         # Increment serves count only for the selected professors
-        supabase.table("professors").update({"serves": prof["serves"] + 1}).eq("id", prof["id"]).execute()
+        supabase.table("professors").update({"serves": prof["serves"] + 1}).match("id", uuids).execute()
     
     print(f"[Supabase Client] Found {len(to_ret)} professors from a pool of {len(response.data)}")
     return to_ret
