@@ -31,6 +31,7 @@ def generate_description(name, affiliation):
             content = response["choices"][0]["message"]["content"]
             # Remove citation numbers like [1], [2], etc from the content
             content = re.sub(r'\[\d+\]', '', content)
+            content = content.replace("**", "")
             return content
         else:
             print(f"Unexpected response: {response}")
