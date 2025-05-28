@@ -16,7 +16,7 @@ index = pc.Index(os.getenv("PINECONE_INDEX"))
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-TOP_K = 10
+TOP_K = 30
 
 logging.basicConfig(
     level=logging.INFO,

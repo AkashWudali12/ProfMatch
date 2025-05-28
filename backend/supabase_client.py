@@ -13,8 +13,15 @@ supabase: Client = create_client(
 )
 
 def get_professors(uuids: list[str]) -> list[Professor]:
-    response = supabase.table("professors").select("*").in_("id", uuids).execute()  
-    to_ret = [Professor(id=i, 
+    # Get all matching professors and order by serves count
+    response = supabase.table("professors").select("*").in_("id", uuids).order("serves").execute()
+    
+    # Take only the first 10 least served professors
+    professors_to_use = response.data[:10]
+    to_ret = []
+    
+    for i, prof in enumerate(professors_to_use):
+        to_add = Professor(id=i, 
                         uuid=prof["id"], 
                         name=f"Dr. {prof['first_name']} {prof['middle_name_initial']} {prof['last_name']}", 
                         school=prof["university"], 
@@ -22,6 +29,11 @@ def get_professors(uuids: list[str]) -> list[Professor]:
                         gscholar=prof["gs_link"], 
                         email_subject=prof["subject_template"], 
                         email_body=prof["body"], 
-                        email_address=prof["email"]) for i, prof in enumerate(response.data)]
-    print(f"[Supabase Client] Found {len(to_ret)} professors")
+                        email_address=prof["email"])
+        to_ret.append(to_add)
+        
+        # Increment serves count only for the selected professors
+        supabase.table("professors").update({"serves": prof["serves"] + 1}).eq("id", prof["id"]).execute()
+    
+    print(f"[Supabase Client] Found {len(to_ret)} professors from a pool of {len(response.data)}")
     return to_ret
