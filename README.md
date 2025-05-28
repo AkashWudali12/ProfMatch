@@ -6,6 +6,8 @@ Find your next research opportunity with AI-powered professor matching.
 
 ProfMatch simplifies the process of finding research opportunities by using AI to match students with active professors based on research interests. No more navigating outdated academic directories or spending hours searching through scattered information.
 
+Try it now: [ProfMatch App](https://profmatch.up.railway.app/)
+
 ## Features ✨
 
 - Natural language search for research interests
@@ -13,6 +15,7 @@ ProfMatch simplifies the process of finding research opportunities by using AI t
 - Verified, up-to-date professor information
 - Email contacts for reaching out
 - Daily refreshed database of active researchers
+- 5 free credits daily during open beta!
 
 ## Tech Stack 🛠️
 
@@ -48,14 +51,19 @@ SUPABASE_URL=your_supabase_url
 SUPABASE_KEY=your_supabase_key
 PINECONE_API_KEY=your_pinecone_key
 PINECONE_INDEX=your_index_name
-PERPLEXITY_API_KEY=your_perplexity_key
 
 # Frontend (.env)
-VITE_BACKEND_URL=http://localhost:8000
-VITE_QUERY_PROFESSORS_URL=http://localhost:8000/get_professors
+VITE_QUERY_PROFESSORS_URL_PROD=http://localhost:8000/get_professors
+
+# Web Scraper (.env)
+SUPABASE_URL=your_supabase_url
+SUPABASE_KEY=your_supabase_key
+PINECONE_API_KEY=your_pinecone_key
+PINECONE_INDEX=your_index_name
+PERPLEXITY_API_KEY=your_perplexity_key
 ```
 
-### Local Development
+### Local Development (for Mac)
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/ProfMatchV2.git
@@ -70,6 +78,74 @@ docker-compose up --build
 The application will be available at:
 - Frontend: http://localhost:4173
 - Backend: http://localhost:8000
+
+### Running Web Scraper
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/ProfMatchV2.git
+cd ProfMatchV2/web_scraper
+```
+
+2. Create and activate Python virtual environment
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows:
+# venv\Scripts\activate
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4. Set up environment variables
+Create a `.env` file in the `web_scraper` directory with the following:
+```env
+SUPABASE_URL=your_supabase_url
+SUPABASE_KEY=your_supabase_key
+PINECONE_API_KEY=your_pinecone_key
+PINECONE_INDEX=your_index_name
+PERPLEXITY_API_KEY=your_perplexity_key
+```
+
+5. Configure Google Scholar URLs
+Edit `gs_links.py` to add the universities you want to scrape. Each URL should be a Google Scholar directory page for an institution:
+
+```python
+GS_LINKS = {
+    "umd": "https://scholar.google.com/citations?view_op=view_org&hl=en&org=2387997698019310735",
+    # Add more universities here
+    "your_abbr": "your_google_scholar_directory_url"
+}
+
+ABBR_TO_NAME = {
+    "umd": "University of Maryland",
+    # Add corresponding full names
+    "your_abbr": "Full University Name"
+}
+
+NAME_TO_ABBR = {
+    "University of Maryland": "umd",
+    # Add corresponding reverse mapping
+    "Full University Name": "your_abbr"
+}
+```
+
+To find a university's Google Scholar directory URL:
+1. Go to Google Scholar
+2. Search for the university name
+3. Click on the university's profile
+4. Copy the URL from your browser
+
+6. Run the scraper
+```bash
+python gs_scraper.py
+```
 
 ## Architecture 🏗️
 
