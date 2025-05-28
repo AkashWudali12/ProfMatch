@@ -19,7 +19,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",  # Development
-        "http://localhost:4173"   # Production preview (Docker)
+        "http://localhost:4173",   # Production preview (Docker)
+        "https://profmatch.up.railway.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],

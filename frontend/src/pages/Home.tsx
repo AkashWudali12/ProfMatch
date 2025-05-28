@@ -269,7 +269,7 @@ export default function Home() {
       <div className="w-full bg-muted/30 border-t border-border mt-auto">
         <div className="max-w-4xl mx-auto px-8 py-6">
           <div className="text-center">
-            <h3 className="text-lg font-semibold mb-3">Contact Us</h3>
+            <h3 className="text-lg font-semibold mb-3">Feature Requests? Contact Us</h3>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-sm text-muted-foreground">
               <div className="flex items-center gap-2">
                 <span>📧</span>
