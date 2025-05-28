@@ -49,9 +49,9 @@ def scrape_main_page(gs_url_queue, profile_queue):
         results = {}
         
         # Add delay before processing each school
-        delay = random.uniform(30, 180)  # 30 seconds to 3 minutes
-        print(f"[Main]: Waiting {delay:.1f} seconds before processing {school}")
-        time.sleep(delay)
+        # delay = random.uniform(15, 30)  # 30 seconds to 3 minutes
+        # print(f"[Main]: Waiting {delay:.1f} seconds before processing {school}")
+        # time.sleep(delay)
         
         # Protected WebDriver setup
         driver = None
@@ -80,9 +80,9 @@ def scrape_main_page(gs_url_queue, profile_queue):
                 # Protected page load wait
                 try:
                     # Add delay between page requests
-                    page_delay = random.uniform(30, 120)  # 30 seconds to 2 minutes for pages
-                    print(f"[Main]: Waiting {page_delay:.1f} seconds before loading page")
-                    time.sleep(page_delay)
+                    # page_delay = random.uniform(30, 90)  # 30 seconds to 2 minutes for pages
+                    # print(f"[Main]: Waiting {page_delay:.1f} seconds before loading page")
+                    # time.sleep(page_delay)
                     
                     h3_elements = driver.find_elements(By.CSS_SELECTOR, 'h3.gs_ai_name')
                 except WebDriverException as e:
@@ -111,9 +111,9 @@ def scrape_main_page(gs_url_queue, profile_queue):
                             profile_queue.put((school, name, f"{href}&view_op=list_works&sortby=pubdate"))
                             
                             # Add small delay between processing professors on same page
-                            prof_delay = random.uniform(5, 15)  # 5-15 seconds between professors
-                            print(f"[Main]: Waiting {prof_delay:.1f} seconds before next professor")
-                            time.sleep(prof_delay)
+                            # prof_delay = random.uniform(5, 15)  # 5-15 seconds between professors
+                            # print(f"[Main]: Waiting {prof_delay:.1f} seconds before next professor")
+                            # time.sleep(prof_delay)
                         else:
                             print(f"[Main]: Skipping professor with missing name or href")
                             
@@ -132,9 +132,9 @@ def scrape_main_page(gs_url_queue, profile_queue):
                         break
                     
                     # Add delay before clicking next page
-                    next_delay = random.uniform(45, 180)  # 45 seconds to 3 minutes before next page
-                    print(f"[Main]: Waiting {next_delay:.1f} seconds before next page")
-                    time.sleep(next_delay)
+                    # next_delay = random.uniform(30, 90)  # 45 seconds to 3 minutes before next page
+                    # print(f"[Main]: Waiting {next_delay:.1f} seconds before next page")
+                    # time.sleep(next_delay)
                     
                     next_button.click()
                     print(f"[Main]: Clicked next page for {school}")
@@ -173,9 +173,9 @@ def scrape_profile_page(profile_queue, publication_queue, postgres_insert_queue)
         school, name, href = item
         
         # Add delay before processing each professor
-        delay = random.uniform(30, 180)  # 30 seconds to 3 minutes
-        print(f"[Profile]: Waiting {delay:.1f} seconds before processing {name}")
-        time.sleep(delay)
+        # delay = random.uniform(30, 180)  # 30 seconds to 3 minutes
+        # print(f"[Profile]: Waiting {delay:.1f} seconds before processing {name}")
+        # time.sleep(delay)
         
         print(f"[Profile] Processing {name} at {href}")
         
@@ -202,9 +202,9 @@ def scrape_profile_page(profile_queue, publication_queue, postgres_insert_queue)
         
         try:
             # Wait for page to load with additional delay
-            load_delay = random.uniform(10, 30)  # 10-30 seconds for page load
-            print(f"[Profile]: Waiting {load_delay:.1f} seconds for page to load")
-            time.sleep(load_delay)
+            # load_delay = random.uniform(10, 30)  # 10-30 seconds for page load
+            # print(f"[Profile]: Waiting {load_delay:.1f} seconds for page to load")
+            # time.sleep(load_delay)
             
             # Protected publication date extraction
             try:
@@ -318,9 +318,9 @@ def scrape_publications_page(publication_queue, postgres_insert_queue):
             continue
 
         # Add delay before processing each professor's publications
-        delay = random.uniform(30, 180)  # 30 seconds to 3 minutes
-        print(f"[Publications]: Waiting {delay:.1f} seconds before processing publications for {name}")
-        time.sleep(delay)
+        # delay = random.uniform(30, 180)  # 30 seconds to 3 minutes
+        # print(f"[Publications]: Waiting {delay:.1f} seconds before processing publications for {name}")
+        # time.sleep(delay)
 
         # Protected WebDriver setup
         driver = None
@@ -351,9 +351,9 @@ def scrape_publications_page(publication_queue, postgres_insert_queue):
             for title, url, date in publications:
                 try:
                     # Add delay between processing each publication
-                    pub_delay = random.uniform(45, 180)  # 45 seconds to 3 minutes between publications
-                    print(f"[Publications]: Waiting {pub_delay:.1f} seconds before processing publication: {title}")
-                    time.sleep(pub_delay)
+                    # pub_delay = random.uniform(45, 180)  # 45 seconds to 3 minutes between publications
+                    # print(f"[Publications]: Waiting {pub_delay:.1f} seconds before processing publication: {title}")
+                    # time.sleep(pub_delay)
                     
                     print(f"[Publications] Processing publication: {title}")
                     driver.get(url)

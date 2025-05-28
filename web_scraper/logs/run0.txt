@@ -1,0 +1,1850 @@
+Init Setup Done
+[Main]: Waiting 170.4 seconds before processing umd
+[Main]: Set up web driver for umd
+[Main]: Waiting 56.4 seconds before loading page
+[Main] Found Edwin A. Locke at https://scholar.google.com/citations?hl=en&user=S4NYuUMAAAAJ
+[Main] Putting Edwin A. Locke at https://scholar.google.com/citations?hl=en&user=S4NYuUMAAAAJ in profile queue
+[Main]: Waiting 7.4 seconds before next professor
+[Main] Found Rita R. Colwell at https://scholar.google.com/citations?hl=en&user=4CIKSEMAAAAJ
+[Main] Putting Rita R. Colwell at https://scholar.google.com/citations?hl=en&user=4CIKSEMAAAAJ in profile queue
+[Main]: Waiting 7.3 seconds before next professor
+[Main] Found Owen White at https://scholar.google.com/citations?hl=en&user=uwYSPwUAAAAJ
+[Main] Putting Owen White at https://scholar.google.com/citations?hl=en&user=uwYSPwUAAAAJ in profile queue
+[Main]: Waiting 6.0 seconds before next professor
+[Main] Found Peter S. Shawhan at https://scholar.google.com/citations?hl=en&user=Lc-aQ3QAAAAJ
+[Main] Putting Peter S. Shawhan at https://scholar.google.com/citations?hl=en&user=Lc-aQ3QAAAAJ in profile queue
+[Main]: Waiting 6.6 seconds before next professor
+[Main] Found Sankar Das Sarma at https://scholar.google.com/citations?hl=en&user=qr4xe_YAAAAJ
+[Main] Putting Sankar Das Sarma at https://scholar.google.com/citations?hl=en&user=qr4xe_YAAAAJ in profile queue
+[Main]: Waiting 14.1 seconds before next professor
+[Main] Found Sarah C. Eno at https://scholar.google.com/citations?hl=en&user=miOPDIcAAAAJ
+[Main] Putting Sarah C. Eno at https://scholar.google.com/citations?hl=en&user=miOPDIcAAAAJ in profile queue
+[Main]: Waiting 6.5 seconds before next professor
+[Main] Found Ben Shneiderman at https://scholar.google.com/citations?hl=en&user=h4i4fh8AAAAJ
+[Main] Putting Ben Shneiderman at https://scholar.google.com/citations?hl=en&user=h4i4fh8AAAAJ in profile queue
+[Main]: Waiting 7.5 seconds before next professor
+[Main] Found Alexander MacKerell at https://scholar.google.com/citations?hl=en&user=t7LQYlUAAAAJ
+[Main] Putting Alexander MacKerell at https://scholar.google.com/citations?hl=en&user=t7LQYlUAAAAJ in profile queue
+[Main]: Waiting 9.4 seconds before next professor
+[Main] Found Allan Wigfield at https://scholar.google.com/citations?hl=en&user=8vDSFZwAAAAJ
+[Main] Putting Allan Wigfield at https://scholar.google.com/citations?hl=en&user=8vDSFZwAAAAJ in profile queue
+[Main]: Waiting 13.5 seconds before next professor
+[Main] Found Peter Memiah at https://scholar.google.com/citations?hl=en&user=QL1qKMsAAAAJ
+[Main] Putting Peter Memiah at https://scholar.google.com/citations?hl=en&user=QL1qKMsAAAAJ in profile queue
+[Main]: Waiting 12.9 seconds before next professor
+[Main]: Waiting 74.1 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 86.6 seconds before loading page
+[Main] Found Ken G. Smith at https://scholar.google.com/citations?hl=en&user=T_T6I4EAAAAJ
+[Main] Putting Ken G. Smith at https://scholar.google.com/citations?hl=en&user=T_T6I4EAAAAJ in profile queue
+[Main]: Waiting 12.2 seconds before next professor
+[Main] Found Larry Davis at https://scholar.google.com/citations?hl=en&user=lc0ARagAAAAJ
+[Main] Putting Larry Davis at https://scholar.google.com/citations?hl=en&user=lc0ARagAAAAJ in profile queue
+[Main]: Waiting 5.6 seconds before next professor
+[Main] Found Chunsheng Wang at https://scholar.google.com/citations?hl=en&user=vP1d_vMAAAAJ
+[Main] Putting Chunsheng Wang at https://scholar.google.com/citations?hl=en&user=vP1d_vMAAAAJ in profile queue
+[Main]: Waiting 13.3 seconds before next professor
+[Main] Found NathanA Fox at https://scholar.google.com/citations?hl=en&user=mVlRLMEAAAAJ
+[Main] Putting NathanA Fox at https://scholar.google.com/citations?hl=en&user=mVlRLMEAAAAJ in profile queue
+[Main]: Waiting 14.4 seconds before next professor
+[Main] Found James Yorke at https://scholar.google.com/citations?hl=en&user=hBKWbpsAAAAJ
+[Main] Putting James Yorke at https://scholar.google.com/citations?hl=en&user=hBKWbpsAAAAJ in profile queue
+[Main]: Waiting 14.5 seconds before next professor
+[Main] Found William F McDonough at https://scholar.google.com/citations?hl=en&user=uVqMMh0AAAAJ
+[Main] Putting William F McDonough at https://scholar.google.com/citations?hl=en&user=uVqMMh0AAAAJ in profile queue
+[Main]: Waiting 11.3 seconds before next professor
+[Main] Found A Kruglanski at https://scholar.google.com/citations?hl=en&user=Trd2BdsAAAAJ
+[Main] Putting A Kruglanski at https://scholar.google.com/citations?hl=en&user=Trd2BdsAAAAJ in profile queue
+[Main]: Waiting 7.1 seconds before next professor
+[Main] Found Eugenia Kalnay at https://scholar.google.com/citations?hl=en&user=hLLKbYIAAAAJ
+[Main] Putting Eugenia Kalnay at https://scholar.google.com/citations?hl=en&user=hLLKbYIAAAAJ in profile queue
+[Main]: Waiting 13.2 seconds before next professor
+[Main] Found Mark T. Gladwin, MD at https://scholar.google.com/citations?hl=en&user=8Tg5310AAAAJ
+[Main] Putting Mark T. Gladwin, MD at https://scholar.google.com/citations?hl=en&user=8Tg5310AAAAJ in profile queue
+[Main]: Waiting 6.0 seconds before next professor
+[Main] Found Edward Ott at https://scholar.google.com/citations?hl=en&user=z7boxkkAAAAJ
+[Main] Putting Edward Ott at https://scholar.google.com/citations?hl=en&user=z7boxkkAAAAJ in profile queue
+[Main]: Waiting 5.7 seconds before next professor
+[Main]: Waiting 143.9 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 31.8 seconds before loading page
+[Main] Found Eric Davidson at https://scholar.google.com/citations?hl=en&user=lwv4FMQAAAAJ
+[Main] Putting Eric Davidson at https://scholar.google.com/citations?hl=en&user=lwv4FMQAAAAJ in profile queue
+[Main]: Waiting 9.1 seconds before next professor
+[Main] Found Mihai Pop at https://scholar.google.com/citations?hl=en&user=4glkLD0AAAAJ
+[Main] Putting Mihai Pop at https://scholar.google.com/citations?hl=en&user=4glkLD0AAAAJ in profile queue
+[Main]: Waiting 13.6 seconds before next professor
+[Main] Found Clement Adebamowo at https://scholar.google.com/citations?hl=en&user=7U1O8X4AAAAJ
+[Main] Putting Clement Adebamowo at https://scholar.google.com/citations?hl=en&user=7U1O8X4AAAAJ in profile queue
+[Main]: Waiting 8.6 seconds before next professor
+[Main] Found Matthew C. Hansen at https://scholar.google.com/citations?hl=en&user=vgIRE-4AAAAJ
+[Main] Putting Matthew C. Hansen at https://scholar.google.com/citations?hl=en&user=vgIRE-4AAAAJ in profile queue
+[Main]: Waiting 5.0 seconds before next professor
+[Main] Found Jacques Ravel at https://scholar.google.com/citations?hl=en&user=QHVILekAAAAJ
+[Main] Putting Jacques Ravel at https://scholar.google.com/citations?hl=en&user=QHVILekAAAAJ in profile queue
+[Main]: Waiting 6.6 seconds before next professor
+[Main] Found Roland T. Rust at https://scholar.google.com/citations?hl=en&user=0WSSicUAAAAJ
+[Main] Putting Roland T. Rust at https://scholar.google.com/citations?hl=en&user=0WSSicUAAAAJ in profile queue
+[Main]: Waiting 14.9 seconds before next professor
+[Main] Found Dinesh Manocha at https://scholar.google.com/citations?hl=en&user=X08l_4IAAAAJ
+[Main] Putting Dinesh Manocha at https://scholar.google.com/citations?hl=en&user=X08l_4IAAAAJ in profile queue
+[Main]: Waiting 10.1 seconds before next professor
+[Main] Found Herman Daly at https://scholar.google.com/citations?hl=en&user=7cEtsGIAAAAJ
+[Main] Putting Herman Daly at https://scholar.google.com/citations?hl=en&user=7cEtsGIAAAAJ in profile queue
+[Main]: Waiting 13.7 seconds before next professor
+[Main] Found Jordan A. Goodman at https://scholar.google.com/citations?hl=en&user=rdcH-aEAAAAJ
+[Main] Putting Jordan A. Goodman at https://scholar.google.com/citations?hl=en&user=rdcH-aEAAAAJ in profile queue
+[Main]: Waiting 6.1 seconds before next professor
+[Main] Found Michael G. Pecht at https://scholar.google.com/citations?hl=en&user=7GGyjTUAAAAJ
+[Main] Putting Michael G. Pecht at https://scholar.google.com/citations?hl=en&user=7GGyjTUAAAAJ in profile queue
+[Main]: Waiting 9.4 seconds before next professor
+[Main]: Waiting 150.0 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 106.9 seconds before loading page
+[Main] Found Christopher Justice at https://scholar.google.com/citations?hl=en&user=g3rEA4gAAAAJ[Postgres] Inserting professor Owen White into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '95340b17-fa44-4925-bf0f-9e0a24766c42', 'first_name': 'Owen', 'last_name': 'White', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=uwYSPwUAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'owhite@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Owen White
+[Postgres] Professor Owen White inserted into DB
+[Postgres] Inserting professor Peter S. Shawhan into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '876fb762-65f9-4f80-b35f-b14f56961917', 'first_name': 'Peter', 'last_name': 'Shawhan', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=Lc-aQ3QAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'pshawhan@umd.edu', 'body_resume': None, 'middle_name_initial': 'S.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Peter S. Shawhan
+[Postgres] Professor Peter S. Shawhan inserted into DB
+[Postgres] Inserting professor Sankar Das Sarma into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'b18278b6-d4b9-4cfb-b990-77ff953aad32', 'first_name': 'Sankar', 'last_name': 'Sarma', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=qr4xe_YAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'dassarma@umd.edu', 'body_resume': None, 'middle_name_initial': 'Das', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Sankar Das Sarma
+[Postgres] Professor Sankar Das Sarma inserted into DB
+[Postgres] Adding email information for Owen White into DB
+[Postgres] Job type is email_info
+[Supabase Client] Response for insert_embedding_text:
+APIResponse[TypeVar](data=[{'id': '95340b17-fa44-4925-bf0f-9e0a24766c42', 'first_name': 'Owen', 'last_name': 'White', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': 'Title: Balancing ethical data sharing and open science for reproducible research in biomedical data science\n\nDescription:\n\nAnalyses of large-scale health data in biomedical data science can help uncover new treatments and deepen our understanding of disease and fundamental biology. Here we examine the balance between ethical and responsible data sharing and open science practices that are essential for reproducible research in biomedical data science.\n\n', 'gs_link': 'https://scholar.google.com/citations?hl=en&user=uwYSPwUAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'owhite@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Updated professor: Owen White's info
+[Postgres] Professor Owen White's email info inserted into DB
+[Postgres] Inserting professor Sarah C. Eno into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '7a61afe2-821b-4b3f-8359-d9fe2f92cb09', 'first_name': 'Sarah', 'last_name': 'Eno', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=miOPDIcAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'eno@umd.edu', 'body_resume': None, 'middle_name_initial': 'C.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Sarah C. Eno
+[Postgres] Professor Sarah C. Eno inserted into DB
+[Postgres] Inserting professor Ben Shneiderman into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '23a6b94f-82f6-4a8d-a689-91aa9994cc3a', 'first_name': 'Ben', 'last_name': 'Shneiderman', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=h4i4fh8AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'ben@cs.umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Ben Shneiderman
+[Postgres] Professor Ben Shneiderman inserted into DB
+[Postgres] Inserting professor Alexander MacKerell into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '7896ee72-3722-4eae-8b44-662555eea4cd', 'first_name': 'Alexander', 'last_name': 'MacKerell', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=t7LQYlUAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'amackere@rx.umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Alexander MacKerell
+[Postgres] Professor Alexander MacKerell inserted into DB
+[Postgres] Inserting professor Allan Wigfield into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'e5ceb7e4-5b50-4eb8-9b2c-f48003f713e0', 'first_name': 'Allan', 'last_name': 'Wigfield', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=8vDSFZwAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'awigfiel@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Allan Wigfield
+[Postgres] Professor Allan Wigfield inserted into DB
+[Postgres] Inserting professor Peter Memiah into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'ee34e550-6823-4d7f-bc03-891ce6c70d8e', 'first_name': 'Peter', 'last_name': 'Memiah', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=QL1qKMsAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'petermemiah@umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Peter Memiah
+[Postgres] Professor Peter Memiah inserted into DB
+[Postgres] Adding email information for Peter S. Shawhan into DB
+[Postgres] Job type is email_info
+[Supabase Client] Response for insert_embedding_text:
+APIResponse[TypeVar](data=[{'id': '876fb762-65f9-4f80-b35f-b14f56961917', 'first_name': 'Peter', 'last_name': 'Shawhan', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': "Title: BurstCube: The story of a GRB-detecting CubeSat\n\nDescription:\n\nA simultaneous detection of a merging neutron star compact-object binary with both gravitational waves (GWs) and prompt electromagnetic emission from a short γ-ray burst (GRB) will fill a critical gap in our understanding of the physics of mergers and the neutron star equation of state. CubeSats offer a low-cost means to improve the likelihood of a joint detection by increasing sky coverage and sensitivity. Aiming to fulfill this objective, BurstCube was a 6U (10 x 20 x 30 cm 3) CubeSat designed to detect, localize, and rapidly disseminate information about GRBs from across the visible sky unocculted by the earth. BurstCube's instrument was sensitive between 50 keV to 1 MeV and consisted of four Thallium-doped cesium iodide (CsI) scintillators coupled to banks of silicon photo-multiplier (SiPM) arrays. BurstCube's on-board triggering algorithm was designed with the capability to deliver alerts of observed GRBs …\n\nTitle: Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO–Virgo–KAGRA observing run\n\nDescription:\n\nThe discovery of gravitational waves (GWs) from coalescing binary black holes (BBH) by the Laser Interferometer Gravitational-Wave Observatory (LIGO) opened a new window to the Universe (BP Abbott et al. 2016a). In addition to GWs, compact binary mergers with at least one neutron star (NS) component are likely to generate electromagnetic (EM) radiation (eg, E. Nakar 2020; K. Kyutoku et al. 2021). Coincident detection of EM emission from compact binary mergers provides a complete picture of the merger process and can have huge implications for our understanding of the Universe. Such coincidences play a crucial role in tracing the properties of the source host galaxy (KD Alexander et al. 2017; E. Troja et al. 2017), mitigating degeneracies in GW parameter estimation (SA Hughes & DE Holz 2003; BP Abbott et al. 2017a; H. Wang & D. Giannios 2021), placing constraints on the NS equation of state (A. Bauswein et al. 2017; D. Radice et al. 2018), and investigating the expansion rate of the Universe, thereby testing cosmological models (BF Schutz 1986; S. Nissanke et al. 2013; BP Abbott et al. 2017a, 2017b; K. Hotokezaka et al. 2019). Additionally, they allow for the measurement of arrival time differences between photons and gravitons, providing limits on the mass of a graviton, and exploring potential violations to the equivalence principle and Lorentz invariance (BP Abbott 2017e).\n\n", 'gs_link': 'https://scholar.google.com/citations?hl=en&user=Lc-aQ3QAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'pshawhan@umd.edu', 'body_resume': None, 'middle_name_initial': 'S.', 'added_to_pinecone': False}], count=None)
+[Main] Putting Christopher Justice at https://scholar.google.com/citations?hl=en&user=g3rEA4gAAAAJ in profile queue
+[Main]: Waiting 8.9 seconds before next professor
+[Main] Found John Townshend at https://scholar.google.com/citations?hl=en&user=X-yQFYIAAAAJ
+[Main] Putting John Townshend at https://scholar.google.com/citations?hl=en&user=X-yQFYIAAAAJ in profile queue
+[Main]: Waiting 13.5 seconds before next professor
+[Main] Found Richard Mushotzky at https://scholar.google.com/citations?hl=en&user=g4OAdfgAAAAJ
+[Main] Putting Richard Mushotzky at https://scholar.google.com/citations?hl=en&user=g4OAdfgAAAAJ in profile queue
+[Main]: Waiting 12.9 seconds before next professor
+[Main] Found George Hurtt at https://scholar.google.com/citations?hl=en&user=wr0aDMEAAAAJ
+[Main] Putting George Hurtt at https://scholar.google.com/citations?hl=en&user=wr0aDMEAAAAJ in profile queue
+[Main]: Waiting 13.8 seconds before next professor
+[Main] Found Clara E Hill at https://scholar.google.com/citations?hl=en&user=EzG2DEAUJ48C
+[Main] Putting Clara E Hill at https://scholar.google.com/citations?hl=en&user=EzG2DEAUJ48C in profile queue
+[Main]: Waiting 14.1 seconds before next professor
+[Main] Found John Haltiwanger at https://scholar.google.com/citations?hl=en&user=VHGcJBUAAAAJ
+[Main] Putting John Haltiwanger at https://scholar.google.com/citations?hl=en&user=VHGcJBUAAAAJ in profile queue
+[Main]: Waiting 7.0 seconds before next professor
+[Main] Found Jude Cassidy at https://scholar.google.com/citations?hl=en&user=6OXlUzoAAAAJ
+[Main] Putting Jude Cassidy at https://scholar.google.com/citations?hl=en&user=6OXlUzoAAAAJ in profile queue
+[Main]: Waiting 12.0 seconds before next professor
+[Main] Found karen Kotloff at https://scholar.google.com/citations?hl=en&user=adTLdD8AAAAJ
+[Main] Putting karen Kotloff at https://scholar.google.com/citations?hl=en&user=adTLdD8AAAAJ in profile queue
+[Main]: Waiting 14.1 seconds before next professor
+[Main] Found james m. gold at https://scholar.google.com/citations?hl=en&user=ixU93NMAAAAJ
+[Main] Putting james m. gold at https://scholar.google.com/citations?hl=en&user=ixU93NMAAAAJ in profile queue
+[Main]: Waiting 7.9 seconds before next professor
+[Main] Found Michelle Gwinn Giglio at https://scholar.google.com/citations?hl=en&user=2FeogQsAAAAJ
+[Main] Putting Michelle Gwinn Giglio at https://scholar.google.com/citations?hl=en&user=2FeogQsAAAAJ in profile queue
+[Main]: Waiting 10.9 seconds before next professor
+[Main]: Waiting 152.2 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 36.4 seconds before loading page
+[Main] Found V Basili at https://scholar.google.com/citations?hl=en&user=B3C4aY8AAAAJ
+[Main] Putting V Basili at https://scholar.google.com/citations?hl=en&user=B3C4aY8AAAAJ in profile queue
+[Main]: Waiting 13.3 seconds before next professor
+[Main] Found Maureen Black at https://scholar.google.com/citations?hl=en&user=CZQTlEYAAAAJ
+[Main] Putting Maureen Black at https://scholar.google.com/citations?hl=en&user=CZQTlEYAAAAJ in profile queue
+[Main]: Waiting 7.2 seconds before next professor
+[Main] Found Stefanie N. Vogel at https://scholar.google.com/citations?hl=en&user=wwZmvtgAAAAJ
+[Main] Putting Stefanie N. Vogel at https://scholar.google.com/citations?hl=en&user=wwZmvtgAAAAJ in profile queue
+[Main]: Waiting 13.7 seconds before next professor
+[Main] Found Robert Adler at https://scholar.google.com/citations?hl=en&user=IA_mWBcAAAAJ
+[Main] Putting Robert Adler at https://scholar.google.com/citations?hl=en&user=IA_mWBcAAAAJ in profile queue
+[Main]: Waiting 11.9 seconds before next professor
+[Main] Found Muge Karagoz at https://scholar.google.com/citations?hl=en&user=sRva4OsAAAAJ
+[Main] Putting Muge Karagoz at https://scholar.google.com/citations?hl=en&user=sRva4OsAAAAJ in profile queue
+[Main]: Waiting 12.2 seconds before next professor
+[Main] Found Alan Faden at https://scholar.google.com/citations?hl=en&user=ivutkckAAAAJ
+[Main] Putting Alan Faden at https://scholar.google.com/citations?hl=en&user=ivutkckAAAAJ in profile queue
+[Main]: Waiting 13.7 seconds before next professor
+[Main] Found Michelle Girvan at https://scholar.google.com/citations?hl=en&user=npKBI-oAAAAJ
+[Main] Putting Michelle Girvan at https://scholar.google.com/citations?hl=en&user=npKBI-oAAAAJ in profile queue
+[Main]: Waiting 7.3 seconds before next professor
+[Main] Found William Blattner at https://scholar.google.com/citations?hl=en&user=eILgJwcAAAAJ
+[Main] Putting William Blattner at https://scholar.google.com/citations?hl=en&user=eILgJwcAAAAJ in profile queue
+[Main]: Waiting 9.8 seconds before next professor
+[Main] Found WJ Lederer at https://scholar.google.com/citations?hl=en&user=jSEHVQcAAAAJ
+[Main] Putting WJ Lederer at https://scholar.google.com/citations?hl=en&user=jSEHVQcAAAAJ in profile queue
+[Main]: Waiting 5.2 seconds before next professor
+[Main] Found Sylvain Veilleux at https://scholar.google.com/citations?hl=en&user=V5Yy0b8AAAAJ
+[Main] Putting Sylvain Veilleux at https://scholar.google.com/citations?hl=en&user=V5Yy0b8AAAAJ in profile queue
+[Main]: Waiting 15.0 seconds before next professor
+[Main]: Waiting 47.1 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 40.2 seconds before loading page
+[Main] Found William KM Lau at https://scholar.google.com/citations?hl=en&user=spn6vEsAAAAJ
+[Main] Putting William KM Lau at https://scholar.google.com/citations?hl=en&user=spn6vEsAAAAJ in profile queue
+[Main]: Waiting 12.8 seconds before next professor
+[Main] Found Peter Potapov at https://scholar.google.com/citations?hl=en&user=LGO0hooAAAAJ
+[Main] Putting Peter Potapov at https://scholar.google.com/citations?hl=en&user=LGO0hooAAAAJ in profile queue
+[Main]: Waiting 10.7 seconds before next professor
+[Main] Found Ken G. Smith at https://scholar.google.com/citations?hl=en&user=6iZSh1MAAAAJ
+[Main] Putting Ken G. Smith at https://scholar.google.com/citations?hl=en&user=6iZSh1MAAAAJ in profile queue
+[Main]: Waiting 7.7 seconds before next professor
+[Main] Found Michael J Quon at https://scholar.google.com/citations?hl=en&user=dS3e-CgAAAAJ
+[Main] Putting Michael J Quon at https://scholar.google.com/citations?hl=en&user=dS3e-CgAAAAJ in profile queue
+[Main]: Waiting 12.7 seconds before next professor
+[Main] Found Margaret Palmer at https://scholar.google.com/citations?hl=en&user=2nGk3QQAAAAJ
+[Main] Putting Margaret Palmer at https://scholar.google.com/citations?hl=en&user=2nGk3QQAAAAJ in profile queue
+[Main]: Waiting 12.5 seconds before next professor
+[Main] Found Ray Weil at https://scholar.google.com/citations?hl=en&user=1tTHsq4AAAAJ
+[Main] Putting Ray Weil at https://scholar.google.com/citations?hl=en&user=1tTHsq4AAAAJ in profile queue
+[Main]: Waiting 6.8 seconds before next professor
+[Main] Found Catherine Plaisant at https://scholar.google.com/citations?hl=en&user=VnwWgwIAAAAJ
+[Main] Putting Catherine Plaisant at https://scholar.google.com/citations?hl=en&user=VnwWgwIAAAAJ in profile queue
+[Main]: Waiting 10.3 seconds before next professor
+[Main] Found Ming Lin at https://scholar.google.com/citations?hl=en&user=ugFNit4AAAAJ
+[Main] Putting Ming Lin at https://scholar.google.com/citations?hl=en&user=ugFNit4AAAAJ in profile queue
+[Main]: Waiting 10.8 seconds before next professor
+[Main] Found David M Mosser at https://scholar.google.com/citations?hl=en&user=hS9gtcwAAAAJ
+[Main] Putting David M Mosser at https://scholar.google.com/citations?hl=en&user=hS9gtcwAAAAJ in profile queue
+[Main]: Waiting 11.9 seconds before next professor
+[Main] Found John H. Laub at https://scholar.google.com/citations?hl=en&user=tsg6M6sAAAAJ
+[Main] Putting John H. Laub at https://scholar.google.com/citations?hl=en&user=tsg6M6sAAAAJ in profile queue
+[Main]: Waiting 12.3 seconds before next professor
+[Main]: Waiting 109.0 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 78.1 seconds before loading page
+[Main] Found Jay Lee at https://scholar.google.com/citations?hl=en&user=g9GtqgQAAAAJ
+[Main] Putting Jay Lee at https://scholar.google.com/citations?hl=en&user=g9GtqgQAAAAJ in profile queue
+[Main]: Waiting 11.9 seconds before next professor
+[Main] Found Hanan Samet at https://scholar.google.com/citations?hl=en&user=ATOfqHEAAAAJ[Publications]: Waiting 172.6 seconds before processing publications for Owen White
+[Publications] Setting up driver for Owen White
+[Publications] Processing Publications of Owen White at umd:
+[Publications]: Waiting 79.6 seconds before processing publication: Balancing ethical data sharing and open science for reproducible research in biomedical data science
+[Publications] Processing publication: Balancing ethical data sharing and open science for reproducible research in biomedical data science
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Balancing ethical data sharing and open science for reproducible research in biomedical data science with 332 character long description
+--------------------------------------------------
+==================================================
+[Publications] Got Embedding Text for Owen White (1 publications):
+Title: Balancing ethical data sharing and open science for reproducible research in biomedical data science
+
+Description:
+
+Analyses of large-scale health data in biomedical data science can help uncov...
+==================================================
+[Publications]: Waiting 91.1 seconds before processing publications for Peter S. Shawhan
+[Publications] Setting up driver for Peter S. Shawhan
+[Publications] Processing Publications of Peter S. Shawhan at umd:
+[Publications]: Waiting 122.0 seconds before processing publication: Limits on the Ejecta Mass During the Search for Kilonovae Associated with Neutron Star-Black Hole Mergers: A case study of S230518h, GW230529, S230627c and the Low-Significance …
+[Publications] Processing publication: Limits on the Ejecta Mass During the Search for Kilonovae Associated with Neutron Star-Black Hole Mergers: A case study of S230518h, GW230529, S230627c and the Low-Significance …
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Limits on the Ejecta Mass During the Search for Kilonovae Associated with Neutron Star-Black Hole Mergers: A case study of S230518h, GW230529, S230627c and the Low-Significance …
+[Publications]: Waiting 113.2 seconds before processing publication: Multidisciplinary Science in the Multimessenger Era
+[Publications] Processing publication: Multidisciplinary Science in the Multimessenger Era
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Multidisciplinary Science in the Multimessenger Era
+[Publications]: Waiting 75.2 seconds before processing publication: Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run
+[Publications] Processing publication: Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run
+[Publications]: Waiting 174.2 seconds before processing publication: BurstCube: The story of a GRB-detecting CubeSat
+[Publications] Processing publication: BurstCube: The story of a GRB-detecting CubeSat
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: BurstCube: The story of a GRB-detecting CubeSat with 925 character long description
+--------------------------------------------------
+[Publications]: Waiting 126.9 seconds before processing publication: Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO–Virgo–KAGRA observing run
+[Publications] Processing publication: Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO–Virgo–KAGRA observing run
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO–Virgo–KAGRA observing run with 1397 character long description
+--------------------------------------------------
+==================================================
+[Publications] Got Embedding Text for Peter S. Shawhan (2 publications):
+Title: BurstCube: The story of a GRB-detecting CubeSat
+
+Description:
+
+A simultaneous detection of a merging neutron star compact-object binary with both gravitational waves (GWs) and prompt electromag...
+==================================================
+[Publications]: Waiting 119.7 seconds before processing publications for Sankar Das Sarma
+[Publications] Setting up driver for Sankar Das Sarma
+[Publications] Processing Publications of Sankar Das Sarma at umd:
+[Publications]: Waiting 70.1 seconds before processing publication: Integer quantum Hall effect: Disorder, temperature, localization, floating, and plateau width
+[Publications] Processing publication: Integer quantum Hall effect: Disorder, temperature, localization, floating, and plateau width
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Integer quantum Hall effect: Disorder, temperature, localization, floating, and plateau width with 915 character long description
+--------------------------------------------------
+[Publications]: Waiting 154.2 seconds before processing publication: Intravalley spin-polarized superconductivity in rhombohedral tetralayer graphene
+[Publications] Processing publication: Intravalley spin-polarized superconductivity in rhombohedral tetralayer graphene
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Intravalley spin-polarized superconductivity in rhombohedral tetralayer graphene with 912 character long description
+--------------------------------------------------
+[Publications]: Waiting 104.2 seconds before processing publication: Dephasing of planar Ge hole spin qubits due to charge noise
+[Publications] Processing publication: Dephasing of planar Ge hole spin qubits due to charge noise
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Dephasing of planar Ge hole spin qubits due to charge noise with 642 character long description
+--------------------------------------------------
+[Publications]: Waiting 178.3 seconds before processing publication: Many-body Localization in a Slowly Varying Potential
+[Publications] Processing publication: Many-body Localization in a Slowly Varying Potential
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Many-body Localization in a Slowly Varying Potential
+[Publications]: Waiting 58.0 seconds before processing publication: In-plane magnetic field-induced orbital FFLO superconductivity in twisted WSe homobilayers
+[Publications] Processing publication: In-plane magnetic field-induced orbital FFLO superconductivity in twisted WSe homobilayers
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for In-plane magnetic field-induced orbital FFLO superconductivity in twisted WSe homobilayers
+[Publications]: Waiting 50.5 seconds before processing publication: Vision transformer based deep learning of topological indicators in Majorana nanowires
+[Publications] Processing publication: Vision transformer based deep learning of topological indicators in Majorana nanowires
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Vision transformer based deep learning of topological indicators in Majorana nanowires with 890 character long description
+--------------------------------------------------
+[Publications]: Waiting 116.8 seconds before processing publication: Topology from Nothing
+[Publications] Processing publication: Topology from Nothing
+[Main] Putting Hanan Samet at https://scholar.google.com/citations?hl=en&user=ATOfqHEAAAAJ in profile queue
+[Main]: Waiting 7.6 seconds before next professor
+[Main] Found Devine Scott E. at https://scholar.google.com/citations?hl=en&user=xf5CD74AAAAJ
+[Main] Putting Devine Scott E. at https://scholar.google.com/citations?hl=en&user=xf5CD74AAAAJ in profile queue
+[Main]: Waiting 6.4 seconds before next professor
+[Main] Found Paul J. Hanges at https://scholar.google.com/citations?hl=en&user=oEWUNuMAAAAJ
+[Main] Putting Paul J. Hanges at https://scholar.google.com/citations?hl=en&user=oEWUNuMAAAAJ in profile queue
+[Main]: Waiting 7.7 seconds before next professor
+[Main] Found Patricia Alexander at https://scholar.google.com/citations?hl=en&user=bltfFeAAAAAJ
+[Main] Putting Patricia Alexander at https://scholar.google.com/citations?hl=en&user=bltfFeAAAAAJ in profile queue
+[Main]: Waiting 10.5 seconds before next professor
+[Main] Found Louis Giglio at https://scholar.google.com/citations?hl=en&user=wgivgCIAAAAJ
+[Main] Putting Louis Giglio at https://scholar.google.com/citations?hl=en&user=wgivgCIAAAAJ in profile queue
+[Main]: Waiting 13.7 seconds before next professor
+[Main] Found Sean B. Carroll at https://scholar.google.com/citations?hl=en&user=g0ZnYkgAAAAJ
+[Main] Putting Sean B. Carroll at https://scholar.google.com/citations?hl=en&user=g0ZnYkgAAAAJ in profile queue
+[Main]: Waiting 13.0 seconds before next professor
+[Main] Found Louise Chini at https://scholar.google.com/citations?hl=en&user=4WN2sbYAAAAJ
+[Main] Putting Louise Chini at https://scholar.google.com/citations?hl=en&user=4WN2sbYAAAAJ in profile queue
+[Main]: Waiting 12.6 seconds before next professor
+[Main] Found Leon Clarke at https://scholar.google.com/citations?hl=en&user=N2-eMXkAAAAJ
+[Main] Putting Leon Clarke at https://scholar.google.com/citations?hl=en&user=N2-eMXkAAAAJ in profile queue
+[Main]: Waiting 11.5 seconds before next professor
+[Main] Found Jonathan Katz at https://scholar.google.com/citations?hl=en&user=H4rKFc8AAAAJ
+[Main] Putting Jonathan Katz at https://scholar.google.com/citations?hl=en&user=H4rKFc8AAAAJ in profile queue
+[Main]: Waiting 11.5 seconds before next professor
+[Main]: Waiting 48.8 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 75.8 seconds before loading page
+[Main] Found William F. Fagan at https://scholar.google.com/citations?hl=en&user=242xTfoAAAAJ
+[Main] Putting William F. Fagan at https://scholar.google.com/citations?hl=en&user=242xTfoAAAAJ in profile queue
+[Main]: Waiting 13.0 seconds before next professor
+[Main] Found Vojislav Maksimovic at https://scholar.google.com/citations?hl=en&user=JbNrxZYAAAAJ
+[Main] Putting Vojislav Maksimovic at https://scholar.google.com/citations?hl=en&user=JbNrxZYAAAAJ in profile queue
+[Main]: Waiting 14.2 seconds before next professor
+[Main] Found James M. Hagberg at https://scholar.google.com/citations?hl=en&user=ZFmcoacAAAAJ
+[Main] Putting James M. Hagberg at https://scholar.google.com/citations?hl=en&user=ZFmcoacAAAAJ in profile queue
+[Main]: Waiting 13.2 seconds before next professor
+[Main] Found Dilsizian at https://scholar.google.com/citations?hl=en&user=ticK_4wAAAAJ
+[Main] Putting Dilsizian at https://scholar.google.com/citations?hl=en&user=ticK_4wAAAAJ in profile queue
+[Main]: Waiting 10.7 seconds before next professor
+[Main] Found Daniel L. Ayres at https://scholar.google.com/citations?hl=en&user=PgWmyygAAAAJ
+[Main] Putting Daniel L. Ayres at https://scholar.google.com/citations?hl=en&user=PgWmyygAAAAJ in profile queue
+[Main]: Waiting 13.9 seconds before next professor
+[Main] Found Zhanqing Li at https://scholar.google.com/citations?hl=en&user=td1Yf-4AAAAJ
+[Main] Putting Zhanqing Li at https://scholar.google.com/citations?hl=en&user=td1Yf-4AAAAJ in profile queue
+[Main]: Waiting 11.6 seconds before next professor
+[Main] Found Michel Wedel at https://scholar.google.com/citations?hl=en&user=swpymmcAAAAJ
+[Main] Putting Michel Wedel at https://scholar.google.com/citations?hl=en&user=swpymmcAAAAJ in profile queue
+[Main]: Waiting 11.6 seconds before next professor
+[Main] Found Paul S. Julienne at https://scholar.google.com/citations?hl=en&user=TLk3FskAAAAJ
+[Main] Putting Paul S. Julienne at https://scholar.google.com/citations?hl=en&user=TLk3FskAAAAJ in profile queue
+[Main]: Waiting 12.3 seconds before next professor
+[Main] Found Ronald Walsworth at https://scholar.google.com/citations?hl=en&user=O-qbA40AAAAJ
+[Main] Putting Ronald Walsworth at https://scholar.google.com/citations?hl=en&user=O-qbA40AAAAJ in profile queue
+[Main]: Waiting 14.2 seconds before next professor
+[Main] Found George Ritzer at https://scholar.google.com/citations?hl=en&user=UP6XI5UAAAAJ
+[Main] Putting George Ritzer at https://scholar.google.com/citations?hl=en&user=UP6XI5UAAAAJ in profile queue
+[Main]: Waiting 10.0 seconds before next professor
+[Main]: Waiting 81.1 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 53.8 seconds before loading page
+[Main] Found Patricia Glibert at https://scholar.google.com/citations?hl=en&user=8Yn9pCIAAAAJ
+[Main] Putting Patricia Glibert at https://scholar.google.com/citations?hl=en&user=8Yn9pCIAAAAJ in profile queue
+[Main]: Waiting 12.7 seconds before next professor
+[Main] Found Jiaqi Dai at https://scholar.google.com/citations?hl=en&user=ppy070EAAAAJ
+[Main] Putting Jiaqi Dai at https://scholar.google.com/citations?hl=en&user=ppy070EAAAAJ in profile queue
+[Main]: Waiting 9.7 seconds before next professor
+[Main] Found RL Greene at https://scholar.google.com/citations?hl=en&user=GE5dNfcAAAAJ
+[Main] Putting RL Greene at https://scholar.google.com/citations?hl=en&user=GE5dNfcAAAAJ in profile queue
+[Main]: Waiting 11.8 seconds before next professor
+[Main] Found Amir Sapkota at https://scholar.google.com/citations?hl=en&user=vM8k5mwAAAAJ
+[Main] Putting Amir Sapkota at https://scholar.google.com/citations?hl=en&user=vM8k5mwAAAAJ in profile queue
+[Main]: Waiting 12.1 seconds before next professor
+[Main] Found Sally N. Adebamowo at https://scholar.google.com/citations?hl=en&user=zMYzRnUAAAAJ
+[Main] Putting Sally N. Adebamowo at https://scholar.google.com/citations?hl=en&user=zMYzRnUAAAAJ in profile queue
+[Main]: Waiting 5.7 seconds before next professor
+[Main] Found William C Dennison at https://scholar.google.com/citations?hl=en&user=NfbBjykAAAAJ
+[Main] Putting William C Dennison at https://scholar.google.com/citations?hl=en&user=NfbBjykAAAAJ in profile queue
+[Main]: Waiting 12.5 seconds before next professor
+[Main] Found Xiangdong Ji at https://scholar.google.com/citations?hl=en&user=bagTWk8AAAAJ
+[Main] Putting Xiangdong Ji at https://scholar.google.com/citations?hl=en&user=bagTWk8AAAAJ in profile queue
+[Main]: Waiting 14.6 seconds before next professor
+[Main] Found Lou Pecora at https://scholar.google.com/citations?hl=en&user=oM5g_r0AAAAJ
+[Main] Putting Lou Pecora at https://scholar.google.com/citations?hl=en&user=oM5g_r0AAAAJ in profile queue
+[Main]: Waiting 10.5 seconds before next professor
+[Main] Found Anil K. Gupta at https://scholar.google.com/citations?hl=en&user=vtK5Tg8AAAAJ
+[Main] Putting Anil K. Gupta at https://scholar.google.com/citations?hl=en&user=vtK5Tg8AAAAJ in profile queue
+[Main]: Waiting 14.6 seconds before next professor
+[Main] Found Thomas David Kocher at https://scholar.google.com/citations?hl=en&user=_p8flCsAAAAJ
+[Main] Putting Thomas David Kocher at https://scholar.google.com/citations?hl=en&user=_p8flCsAAAAJ in profile queue
+[Main]: Waiting 8.0 seconds before next professor
+[Main]: Waiting 141.5 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 37.9 seconds before loading page
+[Main] Found Phillip Alan Arkin at https://scholar.google.com/citations?hl=en&user=wobKu4AAAAAJ
+[Main] Putting Phillip Alan Arkin at https://scholar.google.com/citations?hl=en&user=wobKu4AAAAAJ in profile queue
+[Main]: Waiting 5.1 seconds before next professor
+[Main] Found Tom Goldstein at https://scholar.google.com/citations?hl=en&user=KmSuVtgAAAAJ
+[Main] Putting Tom Goldstein at https://scholar.google.com/citations?hl=en&user=KmSuVtgAAAAJ in profile queue
+[Main]: Waiting 9.3 seconds before next professor
+[Main] Found Bruce L. Golden at https://scholar.google.com/citations?hl=en&user=MZm-nG8AAAAJ[Profile]: Waiting 119.9 seconds before processing Edwin A. Locke
+[Profile] Processing Edwin A. Locke at https://scholar.google.com/citations?hl=en&user=S4NYuUMAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 18.8 seconds for page to load
+[Profile] Edwin A. Locke has no publications from 2025, skipping.
+[Profile]: Waiting 136.7 seconds before processing Rita R. Colwell
+[Profile] Processing Rita R. Colwell at https://scholar.google.com/citations?hl=en&user=4CIKSEMAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 15.1 seconds for page to load
+[Profile] Rita R. Colwell has no publications from 2025, skipping.
+[Profile]: Waiting 116.3 seconds before processing Owen White
+[Profile] Processing Owen White at https://scholar.google.com/citations?hl=en&user=uwYSPwUAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 10.2 seconds for page to load
+[Profile] Owen White has publications from 2025, processing...
+[Profile] Owen White is a valid researcher, getting email...
+[Profile] Owen White has email owhite@som.umaryland.edu
+[Profile] Queued 1 publications for Owen White
+[Profile]: Waiting 48.9 seconds before processing Peter S. Shawhan
+[Profile] Processing Peter S. Shawhan at https://scholar.google.com/citations?hl=en&user=Lc-aQ3QAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 17.8 seconds for page to load
+[Profile] Peter S. Shawhan has publications from 2025, processing...
+[Profile] Peter S. Shawhan is a valid researcher, getting email...
+[Profile] Peter S. Shawhan has email pshawhan@umd.edu
+[Profile] Queued 5 publications for Peter S. Shawhan
+[Profile]: Waiting 45.0 seconds before processing Sankar Das Sarma
+[Profile] Processing Sankar Das Sarma at https://scholar.google.com/citations?hl=en&user=qr4xe_YAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 22.3 seconds for page to load
+[Profile] Sankar Das Sarma has publications from 2025, processing...
+[Profile] Sankar Das Sarma is a valid researcher, getting email...
+[Profile] Sankar Das Sarma has email dassarma@umd.edu
+[Profile] Queued 13 publications for Sankar Das Sarma
+[Profile]: Waiting 157.8 seconds before processing Sarah C. Eno
+[Profile] Processing Sarah C. Eno at https://scholar.google.com/citations?hl=en&user=miOPDIcAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 14.3 seconds for page to load
+[Profile] Sarah C. Eno has publications from 2025, processing...
+[Profile] Sarah C. Eno is a valid researcher, getting email...
+[Profile] Sarah C. Eno has email eno@umd.edu
+[Profile] Queued 20 publications for Sarah C. Eno
+[Profile]: Waiting 58.1 seconds before processing Ben Shneiderman
+[Profile] Processing Ben Shneiderman at https://scholar.google.com/citations?hl=en&user=h4i4fh8AAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 28.1 seconds for page to load
+[Profile] Ben Shneiderman has publications from 2025, processing...
+[Profile] Ben Shneiderman is a valid researcher, getting email...
+[Profile] Ben Shneiderman has email ben@cs.umd.edu
+[Profile] Queued 2 publications for Ben Shneiderman
+[Profile]: Waiting 61.0 seconds before processing Alexander MacKerell
+[Profile] Processing Alexander MacKerell at https://scholar.google.com/citations?hl=en&user=t7LQYlUAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 27.8 seconds for page to load
+[Profile] Alexander MacKerell has publications from 2025, processing...
+[Profile] Alexander MacKerell is a valid researcher, getting email...
+[Profile] Alexander MacKerell has email amackere@rx.umaryland.edu
+[Profile] Queued 19 publications for Alexander MacKerell
+[Profile]: Waiting 163.2 seconds before processing Allan Wigfield
+[Profile] Processing Allan Wigfield at https://scholar.google.com/citations?hl=en&user=8vDSFZwAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 11.3 seconds for page to load
+[Profile] Allan Wigfield has publications from 2025, processing...
+[Profile] Allan Wigfield is a valid researcher, getting email...
+[Profile] Allan Wigfield has email awigfiel@umd.edu
+[Profile] Queued 1 publications for Allan Wigfield
+[Profile]: Waiting 175.9 seconds before processing Peter Memiah
+[Profile] Processing Peter Memiah at https://scholar.google.com/citations?hl=en&user=QL1qKMsAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 21.2 seconds for page to load
+[Profile] Peter Memiah has publications from 2025, processing...
+[Profile] Peter Memiah is a valid researcher, getting email...
+[Profile] Peter Memiah has email petermemiah@umaryland.edu
+[Profile] Queued 3 publications for Peter Memiah
+[Profile]: Waiting 99.2 seconds before processing Ken G. Smith
+[Profile] Processing Ken G. Smith at https://scholar.google.com/citations?hl=en&user=T_T6I4EAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 12.8 seconds for page to load
+[Profile] Ken G. Smith has publications from 2025, processing...
+[Profile] Ken G. Smith is a valid researcher, getting email...
+[Profile] Ken G. Smith has email kgsmith@umd.edu
+[Profile] Queued 1 publications for Ken G. Smith
+[Profile]: Waiting 172.1 seconds before processing Larry Davis
+[Profile] Processing Larry Davis at https://scholar.google.com/citations?hl=en&user=lc0ARagAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 25.6 seconds for page to load
+[Profile] Larry Davis has publications from 2025, processing...
+[Profile] Larry Davis is a valid researcher, getting email...
+[Profile] Larry Davis has email lsd@cs.umd.edu
+[Profile] Queued 1 publications for Larry Davis
+[Profile]: Waiting 131.0 seconds before processing Chunsheng Wang
+[Profile] Processing Chunsheng Wang at https://scholar.google.com/citations?hl=en&user=vP1d_vMAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 15.9 seconds for page to load
+[Profile] Chunsheng Wang has publications from 2025, processing...
+[Profile] Chunsheng Wang is a valid researcher, getting email...
+[Profile] Chunsheng Wang has email cswang@umd.edu
+[Profile] Queued 4 publications for Chunsheng Wang
+[Profile]: Waiting 61.2 seconds before processing NathanA Fox
+[Profile] Processing NathanA Fox at https://scholar.google.com/citations?hl=en&user=mVlRLMEAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 19.0 seconds for page to load
+[Profile] NathanA Fox has publications from 2025, processing...
+[Profile] NathanA Fox is a valid researcher, getting email...
+[Profile] NathanA Fox has email fox@umd.edu
+[Profile] Queued 15 publications for NathanA Fox
+[Profile]: Waiting 144.5 seconds before processing James Yorke
+[Profile] Processing James Yorke at https://scholar.google.com/citations?hl=en&user=hBKWbpsAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 20.4 seconds for page to load
+[Profile] James Yorke has publications from 2025, processing...
+[Profile] James Yorke is a valid researcher, getting email...
+[Profile] James Yorke has email yorke@umd.edu
+[Profile] Queued 3 publications for James Yorke
+[Profile]: Waiting 169.2 seconds before processing William F McDonough
+[Profile] Processing William F McDonough at https://scholar.google.com/citations?hl=en&user=uVqMMh0AAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 20.0 seconds for page to load
+[Profile] William F McDonough has publications from 2025, processing...
+[Profile] William F McDonough is a valid researcher, getting email...
+[Profile] William F McDonough has email mcdonoug@umd.edu
+[Profile] Queued 1 publications for William F McDonough
+[Profile]: Waiting 65.7 seconds before processing A Kruglanski
+[Profile] Processing A Kruglanski at https://scholar.google.com/citations?hl=en&user=Trd2BdsAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 25.8 seconds for page to load
+[Profile] A Kruglanski has publications from 2025, processing...
+[Profile] A Kruglanski is a valid researcher, getting email...
+[Profile] A Kruglanski does not have email
+[Profile]: Waiting 59.7 seconds before processing Eugenia Kalnay
+[Profile] Processing Eugenia Kalnay at https://scholar.google.com/citations?hl=en&user=hLLKbYIAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 14.2 seconds for page to load
+[Profile] Eugenia Kalnay has no publications from 2025, skipping.
+[Profile]: Waiting 130.0 seconds before processing Mark T. Gladwin, MD
+[Profile] Processing Mark T. Gladwin, MD at https://scholar.google.com/citations?hl=en&user=8Tg5310AAAAJ&view_op=list_works&sortby=pubdate
+[Supabase Client] Updated professor: Peter S. Shawhan's info
+[Postgres] Professor Peter S. Shawhan's email info inserted into DB
+[Postgres] Inserting professor Ken G. Smith into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'e67e7d2b-b28f-4916-83e2-55bf7ad315a4', 'first_name': 'Ken', 'last_name': 'Smith', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=T_T6I4EAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'kgsmith@umd.edu', 'body_resume': None, 'middle_name_initial': 'G.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Ken G. Smith
+[Postgres] Professor Ken G. Smith inserted into DB
+[Postgres] Inserting professor Larry Davis into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '0f1958c3-5319-4f09-9b6a-8ecf542b8946', 'first_name': 'Larry', 'last_name': 'Davis', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=lc0ARagAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'lsd@cs.umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Larry Davis
+[Postgres] Professor Larry Davis inserted into DB
+[Postgres] Inserting professor Chunsheng Wang into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '805e299b-90f4-4718-98c0-fcd811369eb7', 'first_name': 'Chunsheng', 'last_name': 'Wang', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=vP1d_vMAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'cswang@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Chunsheng Wang
+[Postgres] Professor Chunsheng Wang inserted into DB
+[Postgres] Inserting professor NathanA Fox into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'ab1440cb-d73d-474a-82df-5c5919ab51e5', 'first_name': 'NathanA', 'last_name': 'Fox', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=mVlRLMEAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'fox@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: NathanA Fox
+[Postgres] Professor NathanA Fox inserted into DB
+[Postgres] Inserting professor James Yorke into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '431d2084-3afb-4942-b1cb-5a6ca9899e3c', 'first_name': 'James', 'last_name': 'Yorke', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=hBKWbpsAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'yorke@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: James Yorke
+[Postgres] Professor James Yorke inserted into DB
+[Postgres] Inserting professor William F McDonough into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'de1545e7-24bf-44cd-96bb-9c654e873789', 'first_name': 'William', 'last_name': 'McDonough', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=uVqMMh0AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'mcdonoug@umd.edu', 'body_resume': None, 'middle_name_initial': 'F', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: William F McDonough
+[Postgres] Professor William F McDonough inserted into DB
+[Postgres] Inserting professor Mark T. Gladwin, MD into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '213b1064-1b07-4d8d-af1b-8bfa1ad2c7b4', 'first_name': 'Mark', 'last_name': 'MD', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=8Tg5310AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'deanmed@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': 'T. Gladwin,', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Mark T. Gladwin, MD
+[Postgres] Professor Mark T. Gladwin, MD inserted into DB
+[Postgres] Inserting professor Edward Ott into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '746cfa9d-a413-4326-98e0-df37723347ef', 'first_name': 'Edward', 'last_name': 'Ott', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=z7boxkkAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'edott@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Edward Ott
+[Postgres] Professor Edward Ott inserted into DB
+[Postgres] Inserting professor Eric Davidson into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '2221e1a8-4056-49f2-a31e-08667eda1bbc', 'first_name': 'Eric', 'last_name': 'Davidson', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=lwv4FMQAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'edavidson@umces.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Eric Davidson
+[Postgres] Professor Eric Davidson inserted into DB
+[Postgres] Inserting professor Mihai Pop into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'b753e1b3-5a4c-42a6-9d10-0c9b727a3483', 'first_name': 'Mihai', 'last_name': 'Pop', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=4glkLD0AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'mpop@umiacs.umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Mihai Pop
+[Postgres] Professor Mihai Pop inserted into DB
+[Postgres] Inserting professor Clement Adebamowo into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '96bd3da4-53fb-4bf1-8c64-5913c9806b9c', 'first_name': 'Clement', 'last_name': 'Adebamowo', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=7U1O8X4AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'cadebamowo@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Clement Adebamowo
+[Postgres] Professor Clement Adebamowo inserted into DB
+[Postgres] Adding email information for Sankar Das Sarma into DB
+[Postgres] Job type is email_info
+[Supabase Client] Response for insert_embedding_text:
+APIResponse[TypeVar](data=[{'id': 'b18278b6-d4b9-4cfb-b990-77ff953aad32', 'first_name': 'Sankar', 'last_name': 'Sarma', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': 'Title: Integer quantum Hall effect: Disorder, temperature, localization, floating, and plateau width\n\nDescription:\n\nWe theoretically consider disorder and temperature effects on the integer quantum Hall effect (IQHE) using a variety of distinct and complementary analytical and numerical techniques. In particular, we address simple, physical, and experimentally relevant questions: How does disorder and/or temperature affect the IQHE plateau width? Does the plateau width increase or decrease with disorder and/or temperature? What happens to the peak in the longitudinal conductance with increasing disorder/temperature? Does the longitudinal conductance obey any universal scaling property? Is there “floating” with increasing disorder and/or decreasing magnetic field? Can disorder destroy the IQHE? Is there an IQHE to localization transition? What is the Landau level dependence of the plateau width? Our detailed theory provides answers to these and other related experimentally relevant questions. We discuss our results …\n\nTitle: Intravalley spin-polarized superconductivity in rhombohedral tetralayer graphene\n\nDescription:\n\nWe study the intravalley spin-polarized superconductivity in rhombohedral tetralayer graphene, which has been discovered experimentally in Han et al. [arXiv:2408.15233]. We construct a minimal model for the intravalley spin-polarized superconductivity, assuming a simplified anisotropic interaction that depends only on the angle between the incoming and outgoing momenta. Despite the absence of Fermi surface nesting, we show that superconductivity can emerge near the Van Hove singularity with the maximal near a bifurcation point of the peaks in the density of states. We identify the , , and the nodal -wave pairings as the possible states, which are all pair density wave orders due to the intravalley nature. Furthermore, these pair density wave orders require a finite attractive threshold for superconductivity, resulting in a narrow stripe shape of superconducting region, consistent with experimental …\n\nTitle: Dephasing of planar Ge hole spin qubits due to charge noise\n\nDescription:\n\nHole spin qubits in Ge, investigated for all-electrical spin manipulation because of their large spin-orbit coupling, are exposed to charge noise, leading to decoherence. Here, we employ a model of noise due to individual fluctuators and determine the dephasing time as a function of qubit properties. decreases with increasing magnetic field and is an order of magnitude longer for out-of-plane fields than for in-plane fields for the same Zeeman energy. shows little variation as a function of the top gate field and is a complex function of the dot radius. Our results should help experiments enhance coherence in hole qubit architectures.\n\nTitle: Vision transformer based deep learning of topological indicators in Majorana nanowires\n\nDescription:\n\nOne-dimensional superconductor-semiconductor nanowires are leading candidates for topological quantum computation because of their ability to host non-Abelian Majorana zero modes (MZMs). However, standard methods for identifying MZMs are often inadequate, particularly in the presence of disorder, where many properties considered to be heralds of MZMs are often generated by trivial disorder-induced Andreev bound states. Recent studies clearly indicate the need for developing new techniques for identifying and diagnosing MZMs. In this study, we use a generalized vision transformer-based neural network to predict, using tunnel conductance measurements, whether a device manifests a topological MZM phase in the presence of disorder and to map out the entire topological phase diagram. We demonstrate the ability of our method to classify with arbitrary confidence whether a device as …\n\nTitle: Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field\n\nDescription:\n\nWe investigate the fractional quantum anomalous Hall (FQAH) effect in rhombohedral multilayer graphene (RnG) in the presence of a strong applied displacement field. We first introduce the interacting model of RnG, which includes the noninteracting continuum model and the many-body Coulomb interaction. We then discuss the integer quantum anomalous Hall (IQAH) effect in RnG and the role of the Hartree-Fock approach in understanding its appearance. Next, we explore the FQAH effect in RnG for using a combination of constrained Hartree-Fock and exact diagonalization methods. We characterize the stability of the FQAH phase by the size of the FQAH gap and find that RnG generally has a stable FQAH phase, although the required displacement field varies significantly among different values. Our work establishes the theoretical universality of both IQAH and FQAH in RnG.\n\nTitle: Rabi and Ramsey oscillations of a Majorana qubit in a quantum dot-superconductor array\n\nDescription:\n\nThe Kitaev chain can be engineered within a quantum dot-superconductor array, hosting Majorana zero modes at fine-tuned sweet spots. In this work, we propose and simulate the occurrence of Rabi and Ramsey oscillations to feasibly construct a minimal Majorana qubit in the quantum dot setup. Our real-time results incorporate realistic effects, e.g., charge noise and leakage, reflecting the latest experimental progress. We demonstrate that Majorana qubits with larger energy gaps exhibit significantly enhanced performance—longer dephasing times, higher quality factors, reduced leakage probabilities, and improved visibilities—compared to those with smaller gaps and with conventional quantum-dot-based charge qubits. We introduce a method for reading out Majorana qubits via quantum capacitance measurements. Our work paves the way for future experiments on realizing Majorana qubits in quantum dot …\n\nTitle: Superconductivity in twisted transition metal dichalcogenide homobilayers\n\nDescription:\n\nRecently, robust superconductivity has been independently reported in twisted bilayers by two separate groups [Y. Xia et al., arXiv:2405.14784; Y. Guo et al., Nature (London) 637, 839 (2025)10.1038/s41586-024-08381-1]. In light of this, we explore the possibility of a universal superconducting pairing mechanism in twisted bilayers. Using a continuum band structure and a phenomenological boson-mediated effective electron-electron attraction, we find that intervalley intralayer pairing predominates over interlayer pairing. Notably, despite very different experimental conditions, both twisted samples exhibit a comparable effective attraction strength for superconductivity. This consistency in the two experiments suggests that the dominant pairing glue is likely independent of the twist angle and layer polarization, pointing to a universal underlying boson-induced pairing mechanism. We speculate on …\n\nTitle: Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control\n\nDescription:\n\nIn this paper, we introduce a methodology that employs machine learning, specifically convolutional neural networks (CNNs), to discern the disorder landscape in the parameters of the disordered extended Hubbard model underlying the semiconductor quantum dot spin qubit architectures. Our approach, which we demonstrate with numerically simulated devices, takes advantage of currently used experimentally obtainable charge stability diagrams from neighboring quantum dot pairs, enabling the CNN to accurately identify disorder in each parameter of the extended Hubbard model. Remarkably, our CNN can process site-specific disorder in Hubbard parameters, including variations in hopping constants, on-site potentials (gate voltages), and both intrasite and intersite Coulomb terms. This advancement facilitates the prediction of spatially dependent disorder across all parameters simultaneously with high accuracy …\n\n', 'gs_link': 'https://scholar.google.com/citations?hl=en&user=qr4xe_YAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'dassarma@umd.edu', 'body_resume': None, 'middle_name_initial': 'Das', 'added_to_pinecone': False}], count=None)
+[Main] Putting Bruce L. Golden at https://scholar.google.com/citations?hl=en&user=MZm-nG8AAAAJ in profile queue
+[Main]: Waiting 14.9 seconds before next professor
+[Main] Found Arthur N. Popper at https://scholar.google.com/citations?hl=en&user=cMNSbBwAAAAJ
+[Main] Putting Arthur N. Popper at https://scholar.google.com/citations?hl=en&user=cMNSbBwAAAAJ in profile queue
+[Main]: Waiting 6.8 seconds before next professor
+[Main] Found Stephen Gottlieb at https://scholar.google.com/citations?hl=en&user=Wh2TgXIAAAAJ
+[Main] Putting Stephen Gottlieb at https://scholar.google.com/citations?hl=en&user=Wh2TgXIAAAAJ in profile queue
+[Main]: Waiting 8.6 seconds before next professor
+[Main] Found Lynn Schriml at https://scholar.google.com/citations?hl=en&user=WvIVTvcAAAAJ
+[Main] Putting Lynn Schriml at https://scholar.google.com/citations?hl=en&user=WvIVTvcAAAAJ in profile queue
+[Main]: Waiting 13.8 seconds before next professor
+[Main] Found Cinthia Drachenberg at https://scholar.google.com/citations?hl=en&user=S8izxvQAAAAJ
+[Main] Putting Cinthia Drachenberg at https://scholar.google.com/citations?hl=en&user=S8izxvQAAAAJ in profile queue
+[Main]: Waiting 14.0 seconds before next professor
+[Main] Found Terence Thornberry at https://scholar.google.com/citations?hl=en&user=Iv5gcNkAAAAJ
+[Main] Putting Terence Thornberry at https://scholar.google.com/citations?hl=en&user=Iv5gcNkAAAAJ in profile queue
+[Main]: Waiting 9.6 seconds before next professor
+[Main] Found Heng Huang at https://scholar.google.com/citations?hl=en&user=4OqLaDwAAAAJ
+[Main] Putting Heng Huang at https://scholar.google.com/citations?hl=en&user=4OqLaDwAAAAJ in profile queue
+[Main]: Waiting 7.0 seconds before next professor
+[Main] Found Mordecai P. Blaustein at https://scholar.google.com/citations?hl=en&user=Lo3ANIQAAAAJ
+[Main] Putting Mordecai P. Blaustein at https://scholar.google.com/citations?hl=en&user=Lo3ANIQAAAAJ in profile queue
+[Main]: Waiting 7.4 seconds before next professor
+[Main]: Waiting 88.0 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 54.9 seconds before loading page
+[Main] Found Huakun Xu at https://scholar.google.com/citations?hl=en&user=mfAg0aAAAAAJ
+[Main] Putting Huakun Xu at https://scholar.google.com/citations?hl=en&user=mfAg0aAAAAAJ in profile queue
+[Main]: Waiting 13.9 seconds before next professor
+[Main] Found Jacob Taylor at https://scholar.google.com/citations?hl=en&user=Ym4p8GQAAAAJ
+[Main] Putting Jacob Taylor at https://scholar.google.com/citations?hl=en&user=Ym4p8GQAAAAJ in profile queue
+[Main]: Waiting 10.3 seconds before next professor
+[Main] Found Raymond Paternoster at https://scholar.google.com/citations?hl=en&user=1ImJDZQAAAAJ
+[Main] Putting Raymond Paternoster at https://scholar.google.com/citations?hl=en&user=1ImJDZQAAAAJ in profile queue
+[Main]: Waiting 6.2 seconds before next professor
+[Main] Found Luiz Pessoa at https://scholar.google.com/citations?hl=en&user=I6jX8VUAAAAJ
+[Main] Putting Luiz Pessoa at https://scholar.google.com/citations?hl=en&user=I6jX8VUAAAAJ in profile queue
+[Main]: Waiting 13.5 seconds before next professor
+[Main] Found L. Drake Deming at https://scholar.google.com/citations?hl=en&user=9OD-280AAAAJ
+[Main] Putting L. Drake Deming at https://scholar.google.com/citations?hl=en&user=9OD-280AAAAJ in profile queue
+[Main]: Waiting 7.6 seconds before next professor
+[Main] Found Ning Zeng at https://scholar.google.com/citations?hl=en&user=ehKRVx8AAAAJ
+[Main] Putting Ning Zeng at https://scholar.google.com/citations?hl=en&user=ehKRVx8AAAAJ in profile queue
+[Main]: Waiting 9.8 seconds before next professor
+[Main] Found Alberto Bolatto at https://scholar.google.com/citations?hl=en&user=JVEwB6MAAAAJ
+[Main] Putting Alberto Bolatto at https://scholar.google.com/citations?hl=en&user=JVEwB6MAAAAJ in profile queue
+[Main]: Waiting 9.3 seconds before next professor
+[Main] Found Gilad Chen at https://scholar.google.com/citations?hl=en&user=33wQ1VYAAAAJ
+[Main] Putting Gilad Chen at https://scholar.google.com/citations?hl=en&user=33wQ1VYAAAAJ in profile queue
+[Main]: Waiting 12.7 seconds before next professor
+[Main] Found James F. Drake at https://scholar.google.com/citations?hl=en&user=st44IV4AAAAJ
+[Main] Putting James F. Drake at https://scholar.google.com/citations?hl=en&user=st44IV4AAAAJ in profile queue
+[Main]: Waiting 10.2 seconds before next professor
+[Main] Found Stephen B. Thomas at https://scholar.google.com/citations?hl=en&user=JYGyQicAAAAJ
+[Main] Putting Stephen B. Thomas at https://scholar.google.com/citations?hl=en&user=JYGyQicAAAAJ in profile queue
+[Main]: Waiting 7.3 seconds before next professor
+[Main]: Waiting 130.5 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 104.7 seconds before loading page
+[Main] Found Jia-Bin Huang at https://scholar.google.com/citations?hl=en&user=pp848fYAAAAJ
+[Main] Putting Jia-Bin Huang at https://scholar.google.com/citations?hl=en&user=pp848fYAAAAJ in profile queue
+[Main]: Waiting 9.8 seconds before next professor
+[Main] Found Hal Daumé III at https://scholar.google.com/citations?hl=en&user=PbEw81gAAAAJ
+[Main] Putting Hal Daumé III at https://scholar.google.com/citations?hl=en&user=PbEw81gAAAAJ in profile queue
+[Main]: Waiting 10.6 seconds before next professor
+[Main] Found Angus Stuart Murphy at https://scholar.google.com/citations?hl=en&user=hk7xq4oAAAAJ
+[Main] Putting Angus Stuart Murphy at https://scholar.google.com/citations?hl=en&user=hk7xq4oAAAAJ in profile queue
+[Main]: Waiting 8.3 seconds before next professor
+[Main] Found Maureen Cropper at https://scholar.google.com/citations?hl=en&user=wi4_jTIAAAAJ
+[Main] Putting Maureen Cropper at https://scholar.google.com/citations?hl=en&user=wi4_jTIAAAAJ in profile queue
+[Main]: Waiting 7.8 seconds before next professor
+[Main] Found Alexandra (Sasha) Tyukavina at https://scholar.google.com/citations?hl=en&user=ZjLPnXcAAAAJ
+[Main] Putting Alexandra (Sasha) Tyukavina at https://scholar.google.com/citations?hl=en&user=ZjLPnXcAAAAJ in profile queue
+[Main]: Waiting 11.0 seconds before next professor
+[Main] Found Jeremy Selengut at https://scholar.google.com/citations?hl=en&user=UpghuIkAAAAJ
+[Main] Putting Jeremy Selengut at https://scholar.google.com/citations?hl=en&user=UpghuIkAAAAJ in profile queue
+[Main]: Waiting 10.0 seconds before next professor
+[Main] Found Mohit Iyyer at https://scholar.google.com/citations?hl=en&user=rBVA5tcAAAAJ
+[Main] Putting Mohit Iyyer at https://scholar.google.com/citations?hl=en&user=rBVA5tcAAAAJ in profile queue
+[Main]: Waiting 10.6 seconds before next professor
+[Main] Found Anthony Ephremides at https://scholar.google.com/citations?hl=en&user=VUITwIIAAAAJ
+[Main] Putting Anthony Ephremides at https://scholar.google.com/citations?hl=en&user=VUITwIIAAAAJ in profile queue
+[Main]: Waiting 9.1 seconds before next professor
+[Main] Found Carter Hall at https://scholar.google.com/citations?hl=en&user=9lsVlCsAAAAJ
+[Main] Putting Carter Hall at https://scholar.google.com/citations?hl=en&user=9lsVlCsAAAAJ in profile queue
+[Main]: Waiting 7.1 seconds before next professor
+[Main] Found Richard J. Walker at https://scholar.google.com/citations?hl=en&user=7OG9U1cAAAAJ
+[Main] Putting Richard J. Walker at https://scholar.google.com/citations?hl=en&user=7OG9U1cAAAAJ in profile queue
+[Main]: Waiting 14.0 seconds before next professor
+[Main]: Waiting 53.8 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 37.6 seconds before loading page
+[Main] Found Eitan Tadmor at https://scholar.google.com/citations?hl=en&user=qXeRfjsAAAAJ
+[Main] Putting Eitan Tadmor at https://scholar.google.com/citations?hl=en&user=qXeRfjsAAAAJ in profile queue
+[Main]: Waiting 5.3 seconds before next professor
+[Main] Found Margaret McCarthy at https://scholar.google.com/citations?hl=en&user=8zthsmYAAAAJ
+[Main] Putting Margaret McCarthy at https://scholar.google.com/citations?hl=en&user=8zthsmYAAAAJ in profile queue
+[Main]: Waiting 13.2 seconds before next professor
+[Main] Found Alan J. Kaufman at https://scholar.google.com/citations?hl=en&user=Dq5JT4cAAAAJ
+[Main] Putting Alan J. Kaufman at https://scholar.google.com/citations?hl=en&user=Dq5JT4cAAAAJ in profile queue
+[Main]: Waiting 11.2 seconds before next professor
+[Main] Found Gregory F. Ball at https://scholar.google.com/citations?hl=en&user=93vh1FAAAAAJ
+[Main] Putting Gregory F. Ball at https://scholar.google.com/citations?hl=en&user=93vh1FAAAAAJ in profile queue
+[Main]: Waiting 11.7 seconds before next professor
+[Main] Found Robert Mislevy at https://scholar.google.com/citations?hl=en&user=J6_-wesAAAAJ
+[Main] Putting Robert Mislevy at https://scholar.google.com/citations?hl=en&user=J6_-wesAAAAJ in profile queue
+[Main]: Waiting 12.4 seconds before next professor
+[Main] Found Seemant Chaturvedi at https://scholar.google.com/citations?hl=en&user=XnkWa6MAAAAJ
+[Main] Putting Seemant Chaturvedi at https://scholar.google.com/citations?hl=en&user=XnkWa6MAAAAJ in profile queue
+[Main]: Waiting 10.7 seconds before next professor
+[Main] Found Curt Civin at https://scholar.google.com/citations?hl=en&user=qevv1_AAAAAJ
+[Main] Putting Curt Civin at https://scholar.google.com/citations?hl=en&user=qevv1_AAAAAJ in profile queue
+[Main]: Waiting 7.5 seconds before next professor
+[Main] Found David W. Jacobs at https://scholar.google.com/citations?hl=en&user=WH2KmRgAAAAJ
+[Main] Putting David W. Jacobs at https://scholar.google.com/citations?hl=en&user=WH2KmRgAAAAJ in profile queue
+[Main]: Waiting 9.2 seconds before next professor
+[Main] Found David W. Inouye at https://scholar.google.com/citations?hl=en&user=fGdaU0IAAAAJ
+[Main] Putting David W. Inouye at https://scholar.google.com/citations?hl=en&user=fGdaU0IAAAAJ in profile queue
+[Main]: Waiting 13.9 seconds before next professor
+[Main] Found Roberto Cesar Izaurralde at https://scholar.google.com/citations?hl=en&user=zPaHMjgAAAAJ
+[Main] Putting Roberto Cesar Izaurralde at https://scholar.google.com/citations?hl=en&user=zPaHMjgAAAAJ in profile queue
+[Main]: Waiting 10.3 seconds before next professor
+[Main]: Waiting 150.9 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 92.0 seconds before loading page
+[Main] Found Howard Lasnik at https://scholar.google.com/citations?hl=en&user=IWFvh8QAAAAJ
+[Main] Putting Howard Lasnik at https://scholar.google.com/citations?hl=en&user=IWFvh8QAAAAJ in profile queue
+[Main]: Waiting 5.4 seconds before next professor
+[Main] Found Svetlana Turubanova at https://scholar.google.com/citations?hl=en&user=lSTycAgAAAAJ
+[Main] Putting Svetlana Turubanova at https://scholar.google.com/citations?hl=en&user=lSTycAgAAAAJ in profile queue
+[Main]: Waiting 7.3 seconds before next professor
+[Main] Found Todd D. Gould at https://scholar.google.com/citations?hl=en&user=CGVt4oQAAAAJ
+[Main] Putting Todd D. Gould at https://scholar.google.com/citations?hl=en&user=CGVt4oQAAAAJ in profile queue
+[Main]: Waiting 6.4 seconds before next professor
+[Main] Found Dilip B. Madan at https://scholar.google.com/citations?hl=en&user=fq7BQosAAAAJ
+[Main] Putting Dilip B. Madan at https://scholar.google.com/citations?hl=en&user=fq7BQosAAAAJ in profile queue
+[Main]: Waiting 9.1 seconds before next professor
+[Main] Found Mark A. Cochrane at https://scholar.google.com/citations?hl=en&user=_xlQmtIAAAAJ
+[Main] Putting Mark A. Cochrane at https://scholar.google.com/citations?hl=en&user=_xlQmtIAAAAJ in profile queue
+[Main]: Waiting 8.8 seconds before next professor
+[Main] Found Stephen M. Mount at https://scholar.google.com/citations?hl=en&user=CNkmfDYAAAAJ
+[Main] Putting Stephen M. Mount at https://scholar.google.com/citations?hl=en&user=CNkmfDYAAAAJ in profile queue
+[Main]: Waiting 7.1 seconds before next professor
+[Main] Found Lisa Shulman at https://scholar.google.com/citations?hl=en&user=Yx3DEKcAAAAJ
+[Main] Putting Lisa Shulman at https://scholar.google.com/citations?hl=en&user=Yx3DEKcAAAAJ in profile queue
+[Main]: Waiting 11.8 seconds before next professor
+[Main] Found Simeon I. Taylor at https://scholar.google.com/citations?hl=en&user=RJ77s-cAAAAJ
+[Main] Putting Simeon I. Taylor at https://scholar.google.com/citations?hl=en&user=RJ77s-cAAAAJ in profile queue
+[Main]: Waiting 14.7 seconds before next professor
+[Main] Found Allison Druin at https://scholar.google.com/citations?hl=en&user=QpaGsuMAAAAJ
+[Main] Putting Allison Druin at https://scholar.google.com/citations?hl=en&user=QpaGsuMAAAAJ in profile queue
+[Main]: Waiting 6.3 seconds before next professor
+[Main] Found Jerald Hage at https://scholar.google.com/citations?hl=en&user=0grCWBIAAAAJ
+[Main] Putting Jerald Hage at https://scholar.google.com/citations?hl=en&user=0grCWBIAAAAJ in profile queue
+[Main]: Waiting 7.0 seconds before next professor
+[Main]: Waiting 52.8 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 50.2 seconds before loading page
+[Main] Found Eric M. Uslaner at https://scholar.google.com/citations?hl=en&user=M1Uj9qwAAAAJ
+[Main] Putting Eric M. Uslaner at https://scholar.google.com/citations?hl=en&user=M1Uj9qwAAAAJ in profile queue
+[Main]: Waiting 13.8 seconds before next professor
+[Main] Found Peter Reuter at https://scholar.google.com/citations?hl=en&user=uauJjKAAAAAJ
+[Main] Putting Peter Reuter at https://scholar.google.com/citations?hl=en&user=uauJjKAAAAAJ in profile queue
+[Main]: Waiting 10.2 seconds before next professor
+[Main] Found Debra L. Shapiro at https://scholar.google.com/citations?hl=en&user=ru9gAFoAAAAJ
+[Main] Putting Debra L. Shapiro at https://scholar.google.com/citations?hl=en&user=ru9gAFoAAAAJ in profile queue
+[Main]: Waiting 12.4 seconds before next professor
+[Main] Found Daniel J. Abadi at https://scholar.google.com/citations?hl=en&user=zxeEF2gAAAAJ
+[Main] Putting Daniel J. Abadi at https://scholar.google.com/citations?hl=en&user=zxeEF2gAAAAJ in profile queue
+[Main]: Waiting 9.6 seconds before next professor
+[Main] Found Daniel Gottesman at https://scholar.google.com/citations?hl=en&user=373HnhYAAAAJ
+[Main] Putting Daniel Gottesman at https://scholar.google.com/citations?hl=en&user=373HnhYAAAAJ in profile queue
+[Main]: Waiting 12.4 seconds before next professor
+[Main] Found Sudarsanam Babu at https://scholar.google.com/citations?hl=en&user=AD9DTNgAAAAJ
+[Main] Putting Sudarsanam Babu at https://scholar.google.com/citations?hl=en&user=AD9DTNgAAAAJ in profile queue
+[Main]: Waiting 13.9 seconds before next professor
+[Main] Found Ralph Dubayah at https://scholar.google.com/citations?hl=en&user=PIxCJcMAAAAJ
+[Main] Putting Ralph Dubayah at https://scholar.google.com/citations?hl=en&user=PIxCJcMAAAAJ in profile queue
+[Main]: Waiting 5.5 seconds before next professor
+[Main] Found Zubair Ahmed at https://scholar.google.com/citations?hl=en&user=3mcyPJ4AAAAJ
+[Main] Putting Zubair Ahmed at https://scholar.google.com/citations?hl=en&user=3mcyPJ4AAAAJ in profile queue
+[Main]: Waiting 10.3 seconds before next professor
+[Main] Found Dana Nau at https://scholar.google.com/citations?hl=en&user=fez4ulcAAAAJ
+[Main] Putting Dana Nau at https://scholar.google.com/citations?hl=en&user=fez4ulcAAAAJ in profile queue
+[Main]: Waiting 9.0 seconds before next professor
+[Main] Found Phillip Allen Sprangle at https://scholar.google.com/citations?hl=en&user=OHfRCc0AAAAJ
+[Main] Putting Phillip Allen Sprangle at https://scholar.google.com/citations?hl=en&user=OHfRCc0AAAAJ in profile queue
+[Main]: Waiting 11.5 seconds before next professor
+[Main]: Waiting 84.8 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 75.3 seconds before loading page
+[Main] Found Thomas M. Antonsen Jr. at https://scholar.google.com/citations?hl=en&user=dwhsuPMAAAAJ
+[Main] Putting Thomas M. Antonsen Jr. at https://scholar.google.com/citations?hl=en&user=dwhsuPMAAAAJ in profile queue
+[Main]: Waiting 7.9 seconds before next professor
+[Main] Found Donald K Milton, MD, DrPH at https://scholar.google.com/citations?hl=en&user=35qhH0QAAAAJ
+[Main] Putting Donald K Milton, MD, DrPH at https://scholar.google.com/citations?hl=en&user=35qhH0QAAAAJ in profile queue
+[Main]: Waiting 6.8 seconds before next professor
+[Main] Found M. Coleman Miller at https://scholar.google.com/citations?hl=en&user=QeWCuo4AAAAJ
+[Main] Putting M. Coleman Miller at https://scholar.google.com/citations?hl=en&user=QeWCuo4AAAAJ in profile queue
+[Main]: Waiting 8.7 seconds before next professor
+[Main] Found Philip Resnik at https://scholar.google.com/citations?hl=en&user=71BFWc0AAAAJ
+[Main] Putting Philip Resnik at https://scholar.google.com/citations?hl=en&user=71BFWc0AAAAJ in profile queue
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Topology from Nothing
+[Publications]: Waiting 166.6 seconds before processing publication: Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field
+[Publications] Processing publication: Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field with 871 character long description
+--------------------------------------------------
+[Publications]: Waiting 115.0 seconds before processing publication: Rabi and Ramsey oscillations of a Majorana qubit in a quantum dot-superconductor array
+[Publications] Processing publication: Rabi and Ramsey oscillations of a Majorana qubit in a quantum dot-superconductor array
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Rabi and Ramsey oscillations of a Majorana qubit in a quantum dot-superconductor array with 903 character long description
+--------------------------------------------------
+[Publications]: Waiting 59.1 seconds before processing publication: Superconductivity in twisted transition metal dichalcogenide homobilayers
+[Publications] Processing publication: Superconductivity in twisted transition metal dichalcogenide homobilayers
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Superconductivity in twisted transition metal dichalcogenide homobilayers with 909 character long description
+--------------------------------------------------
+[Publications]: Waiting 115.9 seconds before processing publication: Singlet-only Always-on Gapless Exchange Qubits with Baseband Control
+[Publications] Processing publication: Singlet-only Always-on Gapless Exchange Qubits with Baseband Control
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Singlet-only Always-on Gapless Exchange Qubits with Baseband Control
+[Publications]: Waiting 162.7 seconds before processing publication: Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control
+[Publications] Processing publication: Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control with 913 character long description
+--------------------------------------------------
+[Publications]: Waiting 101.5 seconds before processing publication: Integer Quantum Hall Effect: Disorder, temperature, floating, and plateau width
+[Publications] Processing publication: Integer Quantum Hall Effect: Disorder, temperature, floating, and plateau width
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Integer Quantum Hall Effect: Disorder, temperature, floating, and plateau width
+==================================================
+[Publications] Got Embedding Text for Sankar Das Sarma (8 publications):
+Title: Integer quantum Hall effect: Disorder, temperature, localization, floating, and plateau width
+
+Description:
+
+We theoretically consider disorder and temperature effects on the integer quantum Ha...
+==================================================
+[Publications]: Waiting 152.0 seconds before processing publications for Sarah C. Eno
+[Publications] Setting up driver for Sarah C. Eno
+[Publications] Processing Publications of Sarah C. Eno at umd:
+[Publications]: Waiting 112.5 seconds before processing publication: Search for dark matter produced in association with one or two top quarks in proton-proton collisions at = 13 TeV
+[Publications] Processing publication: Search for dark matter produced in association with one or two top quarks in proton-proton collisions at = 13 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Search for dark matter produced in association with one or two top quarks in proton-proton collisions at = 13 TeV
+[Publications]: Waiting 78.0 seconds before processing publication: Measurements of the inclusive W and Z boson production cross sections and their ratios in proton-proton collisions at = 13.6 TeV
+[Publications] Processing publication: Measurements of the inclusive W and Z boson production cross sections and their ratios in proton-proton collisions at = 13.6 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Measurements of the inclusive W and Z boson production cross sections and their ratios in proton-proton collisions at = 13.6 TeV
+[Publications]: Waiting 47.8 seconds before processing publication: Search for a neutral gauge boson with nonuniversal fermion couplings in vector boson fusion processes in proton-proton collisions at = 13 TeV
+[Publications] Processing publication: Search for a neutral gauge boson with nonuniversal fermion couplings in vector boson fusion processes in proton-proton collisions at = 13 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Search for a neutral gauge boson with nonuniversal fermion couplings in vector boson fusion processes in proton-proton collisions at = 13 TeV
+[Publications]: Waiting 133.9 seconds before processing publication: Observation of a pseudoscalar excess at the top quark pair production threshold
+[Publications] Processing publication: Observation of a pseudoscalar excess at the top quark pair production threshold
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Observation of a pseudoscalar excess at the top quark pair production threshold
+[Publications]: Waiting 113.7 seconds before processing publication: Model-agnostic search for dijet resonances with anomalous jet substructure in proton-proton collisions at = 13 TeV
+[Publications] Processing publication: Model-agnostic search for dijet resonances with anomalous jet substructure in proton-proton collisions at = 13 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Model-agnostic search for dijet resonances with anomalous jet substructure in proton-proton collisions at = 13 TeV
+[Publications]: Waiting 139.5 seconds before processing publication: Search for heavy neutral resonances decaying to tau lepton pairs in proton-proton collisions at = 13 TeV
+[Publications] Processing publication: Search for heavy neutral resonances decaying to tau lepton pairs in proton-proton collisions at = 13 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Search for heavy neutral resonances decaying to tau lepton pairs in proton-proton collisions at = 13 TeV
+[Publications]: Waiting 89.8 seconds before processing publication: Search for excited tau leptons in the final state in proton-proton collisions at = 13 TeV
+[Publications] Processing publication: Search for excited tau leptons in the final state in proton-proton collisions at = 13 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Search for excited tau leptons in the final state in proton-proton collisions at = 13 TeV
+[Publications]: Waiting 166.7 seconds before processing publication: forCB March35th2025
+[Publications] Processing publication: forCB March35th2025
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+[Profile]: Waiting 26.8 seconds for page to load
+[Profile] Mark T. Gladwin, MD has publications from 2025, processing...
+[Profile] Mark T. Gladwin, MD is a valid researcher, getting email...
+[Profile] Mark T. Gladwin, MD has email deanmed@som.umaryland.edu
+[Profile] Queued 8 publications for Mark T. Gladwin, MD
+[Profile]: Waiting 74.0 seconds before processing Edward Ott
+[Profile] Processing Edward Ott at https://scholar.google.com/citations?hl=en&user=z7boxkkAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 18.3 seconds for page to load
+[Profile] Edward Ott has publications from 2025, processing...
+[Profile] Edward Ott is a valid researcher, getting email...
+[Profile] Edward Ott has email edott@umd.edu
+[Profile] Queued 2 publications for Edward Ott
+[Profile]: Waiting 44.6 seconds before processing Eric Davidson
+[Profile] Processing Eric Davidson at https://scholar.google.com/citations?hl=en&user=lwv4FMQAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 23.8 seconds for page to load
+[Profile] Eric Davidson has publications from 2025, processing...
+[Profile] Eric Davidson is a valid researcher, getting email...
+[Profile] Eric Davidson has email edavidson@umces.edu
+[Profile] Queued 5 publications for Eric Davidson
+[Profile]: Waiting 118.5 seconds before processing Mihai Pop
+[Profile] Processing Mihai Pop at https://scholar.google.com/citations?hl=en&user=4glkLD0AAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 28.2 seconds for page to load
+[Profile] Mihai Pop has publications from 2025, processing...
+[Profile] Mihai Pop is a valid researcher, getting email...
+[Profile] Mihai Pop has email mpop@umiacs.umd.edu
+[Profile] Queued 5 publications for Mihai Pop
+[Profile]: Waiting 126.5 seconds before processing Clement Adebamowo
+[Profile] Processing Clement Adebamowo at https://scholar.google.com/citations?hl=en&user=7U1O8X4AAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 15.5 seconds for page to load
+[Profile] Clement Adebamowo has publications from 2025, processing...
+[Profile] Clement Adebamowo is a valid researcher, getting email...
+[Profile] Clement Adebamowo has email cadebamowo@som.umaryland.edu
+[Profile] Queued 1 publications for Clement Adebamowo
+[Profile]: Waiting 56.1 seconds before processing Matthew C. Hansen
+[Profile] Processing Matthew C. Hansen at https://scholar.google.com/citations?hl=en&user=vgIRE-4AAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 11.6 seconds for page to load
+[Profile] Matthew C. Hansen has publications from 2025, processing...
+[Profile] Matthew C. Hansen is a valid researcher, getting email...
+[Profile] Matthew C. Hansen has email mhansen@umd.edu
+[Profile] Queued 1 publications for Matthew C. Hansen
+[Profile]: Waiting 63.3 seconds before processing Jacques Ravel
+[Profile] Processing Jacques Ravel at https://scholar.google.com/citations?hl=en&user=QHVILekAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 24.3 seconds for page to load
+[Profile] Jacques Ravel has publications from 2025, processing...
+[Profile] Jacques Ravel is a valid researcher, getting email...
+[Profile] Jacques Ravel has email jravel@som.umaryland.edu
+[Profile] Queued 17 publications for Jacques Ravel
+[Profile]: Waiting 72.9 seconds before processing Roland T. Rust
+[Profile] Processing Roland T. Rust at https://scholar.google.com/citations?hl=en&user=0WSSicUAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 21.6 seconds for page to load
+[Profile] Roland T. Rust has publications from 2025, processing...
+[Profile] Roland T. Rust is a valid researcher, getting email...
+[Profile] Roland T. Rust has email rrust@rhsmith.umd.edu
+[Profile] Queued 1 publications for Roland T. Rust
+[Profile]: Waiting 160.0 seconds before processing Dinesh Manocha
+[Profile] Processing Dinesh Manocha at https://scholar.google.com/citations?hl=en&user=X08l_4IAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 21.6 seconds for page to load
+[Profile] Dinesh Manocha has publications from 2025, processing...
+[Profile] Dinesh Manocha is a valid researcher, getting email...
+[Profile] Dinesh Manocha has email dmanocha@umd.edu
+[Profile] Queued 20 publications for Dinesh Manocha
+[Profile]: Waiting 35.7 seconds before processing Herman Daly
+[Profile] Processing Herman Daly at https://scholar.google.com/citations?hl=en&user=7cEtsGIAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 13.5 seconds for page to load
+[Profile] Herman Daly has no publications from 2025, skipping.
+[Profile]: Waiting 163.1 seconds before processing Jordan A. Goodman
+[Profile] Processing Jordan A. Goodman at https://scholar.google.com/citations?hl=en&user=rdcH-aEAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 20.2 seconds for page to load
+[Profile] Jordan A. Goodman has publications from 2025, processing...
+[Profile] Jordan A. Goodman is a valid researcher, getting email...
+[Profile] Jordan A. Goodman has email goodman@umd.edu
+[Profile] Queued 6 publications for Jordan A. Goodman
+[Profile]: Waiting 151.6 seconds before processing Michael G. Pecht
+[Profile] Processing Michael G. Pecht at https://scholar.google.com/citations?hl=en&user=7GGyjTUAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 12.7 seconds for page to load
+[Profile] Michael G. Pecht has publications from 2025, processing...
+[Profile] Michael G. Pecht is a valid researcher, getting email...
+[Profile] Michael G. Pecht has email pecht@calce.umd.edu
+[Profile] Queued 20 publications for Michael G. Pecht
+[Profile]: Waiting 92.0 seconds before processing Christopher Justice
+[Profile] Processing Christopher Justice at https://scholar.google.com/citations?hl=en&user=g3rEA4gAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 10.6 seconds for page to load
+[Profile] Christopher Justice has no publications from 2025, skipping.
+[Profile]: Waiting 168.9 seconds before processing John Townshend
+[Profile] Processing John Townshend at https://scholar.google.com/citations?hl=en&user=X-yQFYIAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 11.5 seconds for page to load
+[Profile] John Townshend has no publications from 2025, skipping.
+[Profile]: Waiting 79.5 seconds before processing Richard Mushotzky
+[Profile] Processing Richard Mushotzky at https://scholar.google.com/citations?hl=en&user=g4OAdfgAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 27.2 seconds for page to load
+[Profile] Richard Mushotzky has publications from 2025, processing...
+[Profile] Richard Mushotzky is a valid researcher, getting email...
+[Profile] Richard Mushotzky has email rmushotz@umd.edu
+[Profile] Queued 16 publications for Richard Mushotzky
+[Profile]: Waiting 142.4 seconds before processing George Hurtt
+[Profile] Processing George Hurtt at https://scholar.google.com/citations?hl=en&user=wr0aDMEAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 16.8 seconds for page to load
+[Profile] George Hurtt has publications from 2025, processing...
+[Profile] George Hurtt is a valid researcher, getting email...
+[Profile] George Hurtt does not have email
+[Profile]: Waiting 152.1 seconds before processing Clara E Hill
+[Profile] Processing Clara E Hill at https://scholar.google.com/citations?hl=en&user=EzG2DEAUJ48C&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 25.3 seconds for page to load
+[Profile] Clara E Hill has publications from 2025, processing...
+[Profile] Clara E Hill is a valid researcher, getting email...
+[Profile] Clara E Hill has email cehill@umd.edu
+[Profile] Queued 3 publications for Clara E Hill
+[Profile]: Waiting 125.9 seconds before processing John Haltiwanger
+[Profile] Processing John Haltiwanger at https://scholar.google.com/citations?hl=en&user=VHGcJBUAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 15.1 seconds for page to load
+[Profile] John Haltiwanger has publications from 2025, processing...
+[Profile] John Haltiwanger is a valid researcher, getting email...
+[Profile] John Haltiwanger has email haltiwan@econ.umd.edu
+[Profile] Queued 4 publications for John Haltiwanger
+[Profile]: Waiting 115.8 seconds before processing Jude Cassidy
+[Profile] Processing Jude Cassidy at https://scholar.google.com/citations?hl=en&user=6OXlUzoAAAAJ&view_op=list_works&sortby=pubdate
+[Main]: Waiting 6.5 seconds before next professor
+[Main] Found Patricia Langenberg at https://scholar.google.com/citations?hl=en&user=2VpMlu4AAAAJ
+[Main] Putting Patricia Langenberg at https://scholar.google.com/citations?hl=en&user=2VpMlu4AAAAJ in profile queue
+[Main]: Waiting 6.5 seconds before next professor
+[Main] Found Catherine Fenselau at https://scholar.google.com/citations?hl=en&user=qSYigFIAAAAJ
+[Main] Putting Catherine Fenselau at https://scholar.google.com/citations?hl=en&user=qSYigFIAAAAJ in profile queue
+[Main]: Waiting 9.8 seconds before next professor
+[Main] Found Philip LF Johnson at https://scholar.google.com/citations?hl=en&user=05cijuQAAAAJ
+[Main] Putting Philip LF Johnson at https://scholar.google.com/citations?hl=en&user=05cijuQAAAAJ in profile queue
+[Main]: Waiting 11.6 seconds before next professor
+[Main] Found William E Bentley at https://scholar.google.com/citations?hl=en&user=wdckqjYAAAAJ
+[Main] Putting William E Bentley at https://scholar.google.com/citations?hl=en&user=wdckqjYAAAAJ in profile queue
+[Main]: Waiting 8.3 seconds before next professor
+[Main] Found Luke Tallon at https://scholar.google.com/citations?hl=en&user=ETiUrHQAAAAJ
+[Main] Putting Luke Tallon at https://scholar.google.com/citations?hl=en&user=ETiUrHQAAAAJ in profile queue
+[Main]: Waiting 13.1 seconds before next professor
+[Main] Found Eun-Suk Seo at https://scholar.google.com/citations?hl=en&user=KZzKt9AAAAAJ
+[Main] Putting Eun-Suk Seo at https://scholar.google.com/citations?hl=en&user=KZzKt9AAAAAJ in profile queue
+[Main]: Waiting 6.4 seconds before next professor
+[Main]: Waiting 129.8 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 109.2 seconds before loading page
+[Main] Found Edward D. Houde at https://scholar.google.com/citations?hl=en&user=Rh5-peAAAAAJ
+[Main] Putting Edward D. Houde at https://scholar.google.com/citations?hl=en&user=Rh5-peAAAAAJ in profile queue
+[Main]: Waiting 14.2 seconds before next professor
+[Main] Found thomas ernst at https://scholar.google.com/citations?hl=en&user=Bg6rqH4AAAAJ
+[Main] Putting thomas ernst at https://scholar.google.com/citations?hl=en&user=Bg6rqH4AAAAJ in profile queue
+[Main]: Waiting 12.4 seconds before next professor
+[Main] Found Shengyun Fang at https://scholar.google.com/citations?hl=en&user=dhezIWQAAAAJ
+[Main] Putting Shengyun Fang at https://scholar.google.com/citations?hl=en&user=dhezIWQAAAAJ in profile queue
+[Main]: Waiting 8.9 seconds before next professor
+[Main] Found Yifei Mo at https://scholar.google.com/citations?hl=en&user=_7Z6YIYAAAAJ
+[Main] Putting Yifei Mo at https://scholar.google.com/citations?hl=en&user=_7Z6YIYAAAAJ in profile queue
+[Main]: Waiting 13.0 seconds before next professor
+[Main] Found Alberto F Cabrera at https://scholar.google.com/citations?hl=en&user=X2AFSpEAAAAJ
+[Main] Putting Alberto F Cabrera at https://scholar.google.com/citations?hl=en&user=X2AFSpEAAAAJ in profile queue
+[Main]: Waiting 10.4 seconds before next professor
+[Main] Found Benjamin B. Bederson at https://scholar.google.com/citations?hl=en&user=IcW1vJEAAAAJ
+[Main] Putting Benjamin B. Bederson at https://scholar.google.com/citations?hl=en&user=IcW1vJEAAAAJ in profile queue
+[Main]: Waiting 13.7 seconds before next professor
+[Main] Found Richard E. Just at https://scholar.google.com/citations?hl=en&user=uW9OCGQAAAAJ
+[Main] Putting Richard E. Just at https://scholar.google.com/citations?hl=en&user=uW9OCGQAAAAJ in profile queue
+[Main]: Waiting 12.1 seconds before next professor
+[Main] Found Allan Drazen at https://scholar.google.com/citations?hl=en&user=C6NEtMMAAAAJ
+[Main] Putting Allan Drazen at https://scholar.google.com/citations?hl=en&user=C6NEtMMAAAAJ in profile queue
+[Main]: Waiting 5.8 seconds before next professor
+[Main] Found Raymond St. Leger at https://scholar.google.com/citations?hl=en&user=dvl7hJEAAAAJ
+[Main] Putting Raymond St. Leger at https://scholar.google.com/citations?hl=en&user=dvl7hJEAAAAJ in profile queue
+[Main]: Waiting 10.0 seconds before next professor
+[Main] Found Liangli Yu at https://scholar.google.com/citations?hl=en&user=JYST1M8AAAAJ
+[Main] Putting Liangli Yu at https://scholar.google.com/citations?hl=en&user=JYST1M8AAAAJ in profile queue
+[Main]: Waiting 7.4 seconds before next professor
+[Main]: Waiting 68.2 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 95.3 seconds before loading page
+[Main] Found PK Kannan at https://scholar.google.com/citations?hl=en&user=cnGH0LQAAAAJ
+[Main] Putting PK Kannan at https://scholar.google.com/citations?hl=en&user=cnGH0LQAAAAJ in profile queue
+[Main]: Waiting 7.3 seconds before next professor
+[Main] Found Gary W. Rubloff at https://scholar.google.com/citations?hl=en&user=OSUEbr8AAAAJ
+[Main] Putting Gary W. Rubloff at https://scholar.google.com/citations?hl=en&user=OSUEbr8AAAAJ in profile queue
+[Main]: Waiting 6.8 seconds before next professor
+[Main] Found Ichiro Takeuchi at https://scholar.google.com/citations?hl=en&user=OB9Pab8AAAAJ
+[Main] Putting Ichiro Takeuchi at https://scholar.google.com/citations?hl=en&user=OB9Pab8AAAAJ in profile queue
+[Main]: Waiting 5.8 seconds before next professor
+[Main] Found Matthew Frieman at https://scholar.google.com/citations?hl=en&user=for5Mr4AAAAJ
+[Main] Putting Matthew Frieman at https://scholar.google.com/citations?hl=en&user=for5Mr4AAAAJ in profile queue
+[Main]: Waiting 13.9 seconds before next professor
+[Main] Found Robert M. De Keyser at https://scholar.google.com/citations?hl=en&user=DShIY28AAAAJ
+[Main] Putting Robert M. De Keyser at https://scholar.google.com/citations?hl=en&user=DShIY28AAAAJ in profile queue
+[Main]: Waiting 13.6 seconds before next professor
+[Main] Found sl Rolston at https://scholar.google.com/citations?hl=en&user=Q0b_GQgAAAAJ
+[Main] Putting sl Rolston at https://scholar.google.com/citations?hl=en&user=Q0b_GQgAAAAJ in profile queue
+[Main]: Waiting 8.6 seconds before next professor
+[Main] Found Lyle D. Isaacs at https://scholar.google.com/citations?hl=en&user=PXiHOFoAAAAJ
+[Main] Putting Lyle D. Isaacs at https://scholar.google.com/citations?hl=en&user=PXiHOFoAAAAJ in profile queue
+[Main]: Waiting 8.4 seconds before next professor
+[Main] Found Jan V. Sengers, JV Sengers at https://scholar.google.com/citations?hl=en&user=X2ahsJoAAAAJ
+[Main] Putting Jan V. Sengers, JV Sengers at https://scholar.google.com/citations?hl=en&user=X2ahsJoAAAAJ in profile queue
+[Main]: Waiting 14.9 seconds before next professor
+[Main] Found Kuishuang Feng at https://scholar.google.com/citations?hl=en&user=BPgmG-IAAAAJ
+[Main] Putting Kuishuang Feng at https://scholar.google.com/citations?hl=en&user=BPgmG-IAAAAJ in profile queue
+[Main]: Waiting 7.4 seconds before next professor
+[Main] Found Ted Jacobson at https://scholar.google.com/citations?hl=en&user=QyHAXo8AAAAJ
+[Main] Putting Ted Jacobson at https://scholar.google.com/citations?hl=en&user=QyHAXo8AAAAJ in profile queue
+[Main]: Waiting 13.4 seconds before next professor
+[Main]: Waiting 90.9 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 75.4 seconds before loading page
+[Main] Found Hector Corrada Bravo at https://scholar.google.com/citations?hl=en&user=QEVXP-kAAAAJ
+[Main] Putting Hector Corrada Bravo at https://scholar.google.com/citations?hl=en&user=QEVXP-kAAAAJ in profile queue
+[Main]: Waiting 11.5 seconds before next professor
+[Main] Found Sebnem Kalemli-Ozcan at https://scholar.google.com/citations?hl=en&user=Qv2sDCAAAAAJ
+[Main] Putting Sebnem Kalemli-Ozcan at https://scholar.google.com/citations?hl=en&user=Qv2sDCAAAAAJ in profile queue
+[Main]: Waiting 8.7 seconds before next professor
+[Main] Found Sennur Ulukus at https://scholar.google.com/citations?hl=en&user=nTG_TQMAAAAJ
+[Main] Putting Sennur Ulukus at https://scholar.google.com/citations?hl=en&user=nTG_TQMAAAAJ in profile queue
+[Main]: Waiting 7.9 seconds before next professor
+[Main] Found David M. Mount at https://scholar.google.com/citations?hl=en&user=v6PsQKIAAAAJ
+[Main] Putting David M. Mount at https://scholar.google.com/citations?hl=en&user=v6PsQKIAAAAJ in profile queue
+[Main]: Waiting 14.9 seconds before next professor
+[Main] Found Alexey V. Gorshkov at https://scholar.google.com/citations?hl=en&user=DAEvllcAAAAJ
+[Supabase Client] Updated professor: Sankar Das Sarma's info
+[Postgres] Professor Sankar Das Sarma's email info inserted into DB
+[Postgres] Inserting professor Matthew C. Hansen into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '95fca071-3235-430b-b7e6-b283163c5fb7', 'first_name': 'Matthew', 'last_name': 'Hansen', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=vgIRE-4AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'mhansen@umd.edu', 'body_resume': None, 'middle_name_initial': 'C.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Matthew C. Hansen
+[Postgres] Professor Matthew C. Hansen inserted into DB
+[Postgres] Inserting professor Jacques Ravel into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '3ba69e9a-7fb3-4250-bbe5-d4c0c8e647b3', 'first_name': 'Jacques', 'last_name': 'Ravel', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=QHVILekAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'jravel@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Jacques Ravel
+[Postgres] Professor Jacques Ravel inserted into DB
+[Postgres] Inserting professor Roland T. Rust into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'db743add-6c72-475d-9981-5070c05deeea', 'first_name': 'Roland', 'last_name': 'Rust', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=0WSSicUAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'rrust@rhsmith.umd.edu', 'body_resume': None, 'middle_name_initial': 'T.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Roland T. Rust
+[Postgres] Professor Roland T. Rust inserted into DB
+[Postgres] Inserting professor Dinesh Manocha into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'ce8ef785-a808-4e77-88a8-e57f2983eda5', 'first_name': 'Dinesh', 'last_name': 'Manocha', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=X08l_4IAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'dmanocha@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Dinesh Manocha
+[Postgres] Professor Dinesh Manocha inserted into DB
+[Postgres] Inserting professor Jordan A. Goodman into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '3e6a9311-df96-4a7c-8c35-987e835f05b4', 'first_name': 'Jordan', 'last_name': 'Goodman', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=rdcH-aEAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'goodman@umd.edu', 'body_resume': None, 'middle_name_initial': 'A.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Jordan A. Goodman
+[Postgres] Professor Jordan A. Goodman inserted into DB
+[Postgres] Inserting professor Michael G. Pecht into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'cddd3237-e0cd-44ae-a38b-ec874e6fb2bb', 'first_name': 'Michael', 'last_name': 'Pecht', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=7GGyjTUAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'pecht@calce.umd.edu', 'body_resume': None, 'middle_name_initial': 'G.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Michael G. Pecht
+[Postgres] Professor Michael G. Pecht inserted into DB
+[Postgres] Inserting professor Richard Mushotzky into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '1292cce4-c7ef-499a-8e9e-544039b3ea2f', 'first_name': 'Richard', 'last_name': 'Mushotzky', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=g4OAdfgAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'rmushotz@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Richard Mushotzky
+[Postgres] Professor Richard Mushotzky inserted into DB
+[Postgres] Inserting professor Clara E Hill into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'd2a47288-ba66-46d1-950b-d268346984cf', 'first_name': 'Clara', 'last_name': 'Hill', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=EzG2DEAUJ48C&view_op=list_works&sortby=pubdate', 'email': 'cehill@umd.edu', 'body_resume': None, 'middle_name_initial': 'E', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Clara E Hill
+[Postgres] Professor Clara E Hill inserted into DB
+[Postgres] Inserting professor John Haltiwanger into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '2ac3fd1a-b4d1-4bef-86f7-374621459b53', 'first_name': 'John', 'last_name': 'Haltiwanger', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=VHGcJBUAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'haltiwan@econ.umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: John Haltiwanger
+[Postgres] Professor John Haltiwanger inserted into DB
+[Postgres] Inserting professor Jude Cassidy into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '81e3e86a-d835-410c-886a-e1c430303939', 'first_name': 'Jude', 'last_name': 'Cassidy', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=6OXlUzoAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'jcassidy@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Jude Cassidy
+[Postgres] Professor Jude Cassidy inserted into DB
+[Postgres] Inserting professor karen Kotloff into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '33f55c53-9d24-4ade-be45-3bd8e38fbf80', 'first_name': 'karen', 'last_name': 'Kotloff', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=adTLdD8AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'kkotloff@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: karen Kotloff
+[Postgres] Professor karen Kotloff inserted into DB
+[Postgres] Inserting professor james m. gold into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '13713b1a-f243-4ec6-b133-1998ef642da9', 'first_name': 'james', 'last_name': 'gold', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=ixU93NMAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'jgold@mprc.umaryland.edu', 'body_resume': None, 'middle_name_initial': 'm.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: james m. gold
+[Postgres] Professor james m. gold inserted into DB
+[Postgres] Inserting professor V Basili into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'ddd4932f-f37f-409e-9433-97ab474805ec', 'first_name': 'V', 'last_name': 'Basili', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=B3C4aY8AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'basili@cs.umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: V Basili
+[Postgres] Professor V Basili inserted into DB
+[Postgres] Inserting professor Maureen Black into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'cfe8267e-5332-4620-b2d2-e725e46f8989', 'first_name': 'Maureen', 'last_name': 'Black', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=CZQTlEYAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'mblack@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Maureen Black
+[Postgres] Professor Maureen Black inserted into DB
+[Postgres] Adding email information for Sarah C. Eno into DB
+[Postgres] Job type is email_info
+[Supabase Client] Response for insert_embedding_text:
+APIResponse[TypeVar](data=[{'id': '7a61afe2-821b-4b3f-8359-d9fe2f92cb09', 'first_name': 'Sarah', 'last_name': 'Eno', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': 'Title: forCB March35th2025\n\nDescription:\n\nDifferent types of calorimeters are proposed for experiments for future fixed-target facilities, electroweak and Higgs factories ([1, 2, 3, 4, 5]), hadron ([6]) and muon colliders ([7]) but also for medium and low-energy facilities. EIC [8] is also among possible recipients of the R&D program developed in this DRD-on-Calorimetry. The ECFA Detector Roadmap [9] has defined the following Detector R&D Themes (DRDTs):\n\nTitle: Small- evolution of gluon fields from incoherent photoproduction in ultraperipheral PbPb collisions\n\nDescription:\n\nIncoherent J/ψ photoproduction in heavy ion ultraperipheral collisions (UPCs), in which the photon interacts with localized, fluctuating gluonic hotspots rather than the entire nucleus, provides a unique probe of those fluctuations. This study presents the first measurement of the dependence of this photoproduction yield on the photonnucleon center-of-mass energy (WγN), using PbPb UPCs at a nucleon-nucleon centerof-mass energy of 5.02 TeV. The data corresponds to an integrated luminosity of 1.52 nb− 1, recorded by the CMS experiment. The measurement covers a wide WγN range of≈ 40–400 GeV, probing gluons carrying a fraction of nucleon momentum x in the range between 5.9× 10− 3 and 6.5× 10− 5. The measured incoherent J/ψ photoproduction cross section is suppressed relative to theoretical predictions without nuclear effects. However, the ratio of incoherent to coherent photoproduction remains constant across the probed WγN and x range. Together, these results pose significant challenges to current theoretical models which include gluon saturation or nuclear shadowing effects.\n\nTitle: Observation of the charged-particle multiplicity dependence of in pPb collisions at 8.16 TeV\n\nDescription:\n\nBound states of charm and anticharm quarks, known as charmonia, have a rich spectroscopic structure that can be used to probe the dynamics of hadron production in high-energy hadron collisions. Here, the cross section ratio of excited and ground state vector mesons is measured as a function of the charged-particle multiplicity in proton-lead (pPb) collisions at a center-of-mass (CM) energy per nucleon pair of 8.16 TeV. The data corresponding to an integrated luminosity of 175 nb were collected using the CMS detector. The ratio is measured separately for prompt and nonprompt charmonia in the transverse momentum range 6.530 GeV and in four rapidity ranges spanning 2.865 1.935. For the first time, a statistically significant multiplicity dependence of the prompt cross section ratio is observed in proton-nucleus collisions. There is no clear rapidity dependence in the ratio. The prompt measurements are compared with a theoretical model which includes interactions with nearby particles during the evolution of the system. These results provide additional constraints on hadronization models of heavy quarks in nuclear collisions.\n\nTitle: arXiv: The IDEA detector concept for FCC-ee\n\nDescription:\n\nA detector concept, named IDEA, optimized for the physics and running conditions at the FCC-ee is presented. After discussing the expected running conditions and the main physics drivers, a detailed description of the individual sub-detectors is given. These include: a very light tracking system with a powerful vertex detector inside a large drift chamber surrounded by a silicon wrapper, a high resolution dual readout crystal electromagnetic calorimeter, an HTS based superconducting solenoid, a dual readout fiber calorimeter and three layers of muon chambers embedded in the magnet flux return yoke. Some examples of the expected detector performance, based on fast and full simulation, are also given.\n\nTitle: Search for medium effects using jet axis decorrelation in inclusive jets from PbPb collisions at 5.02 TeV\n\nDescription:\n\nThe jet axis decorrelation in inclusive jets is studied using lead-lead (PbPb) collisions at a center-of-mass energy per nucleon pair of 5.02 TeV. The jet axis decorrelation is defined as the angular difference between two definitions of the jet axis. It is obtained by applying two recombination schemes on all the constituents of a given jet reconstructed by the anti-kT sequential algorithm with a distance parameter of R= 0.4. The data set, corresponding to an integrated luminosity of 0.66 nb− 1, was collected in 2018 with the CMS detector at the CERN LHC. The jet axis decorrelations are examined across collision centrality selections and intervals of jet transverse momentum. A centrality dependent evolution of the measured distributions is observed, with a progressive narrowing seen in more central events. This narrowing could result from medium-induced modification of the internal jet structure or reflect color charge effects in energy loss. This new measurement probes jet substructure in previously unexplored kinematic domains and show great promise for providing new insights on the color charge dependence of energy loss to jet-quenching models.\n\nTitle: Observation of hyperon local polarization in pPb collisions at 8.16 TeV\n\nDescription:\n\nThe polarization of the A and A hyperons along the beam direction has been measured in proton-lead (pPb) collisions at a center-of-mass energy per nucleon pair of 8.16 TeV. The data were obtained with the CMS detector at the LHC and correspond to an integrated luminosity of 186.0±6.5 nb− 1. A significant azimuthal dependence of the hyperon polarization, characterized by the second-order Fourier sine coefficient Pz, s2, is observed. The Pz, s2 values decrease as a function of charged particle multiplicity, but increase with transverse momentum. A hydrodynamic model that describes the observed Pz, s2 values in nucleus-nucleus collisions by introducing vorticity effects does not reproduce either the sign or the magnitude of the pPb results. These observations pose a challenge to the current theoretical implementation of spin polarization in heavy ion collisions and offer new insights into the origin of spin polarization in hadronic collisions at LHC energies.\n\nTitle: Evidence for similar collectivity of high transverse momentum particles in pPb and PbPb collisions\n\nDescription:\n\nCharged hadron elliptic anisotropies (v2) are presented over a wide transverse momentum (pT) range for proton-lead (pPb) and lead-lead (PbPb) collisions at nucleonnucleon center-of-mass energies of 8.16 and 5.02 TeV, respectively. The data were recorded by the CMS experiment and correspond to integrated luminosities of 186 nb− 1 and 0.607 nb− 1 for the pPb and PbPb systems, respectively. A four-particle cumulant analysis is performed using subevents separated in pseudorapidity to effectively suppress non-collective effects. At high pT (pT> 8 GeV), significant positive v2 values are observed that are similar between pPb and PbPb collisions at comparable charged particle multiplicities. This observation suggests a common origin for the multi-particle collectivity for high-pT particles in the two systems.\n\nTitle: Search for production and constraints on the Yukawa couplings of light quarks to the Higgs boson\n\nDescription:\n\nA search for γH production is performed with data from the CMS experiment at the LHC corresponding to an integrated luminosity of 138fb− 1 at a proton-proton center-of-mass collision energy of 13TeV. The analysis focuses on the topology of a boosted Higgs boson recoiling against a high-energy photon. The final states of H→ bb and H→ 4ℓ are analyzed. This study examines effective HZγ and Hγγ anomalous couplings within the context of an effective field theory. In this approach, the production cross section is constrained to be σγH< 16.4 fb at 95% confidence level (CL). Simultaneous constraints on four anomalous couplings involving HZγ and Hγγ are provided. Additionally, the production rate for H→ 4ℓ is examined to assess potential enhancements in the Yukawa couplings between light quarks and the Higgs boson. Assuming the standard model values for the Yukawa couplings of the bottom and top quarks, the following simultaneous constraints are obtained: κu=(0.0±1.5)× 103, κd=(0.0±7.1)× 102, κs= 0+33− 34, and κc= 0.0+2. 7− 3.0. This rules out the hypothesis that up-or down-type quarks in the first or second generation have the same Yukawa couplings as those in the third generation, with a CL greater than 95%.\n\nTitle: Search for long-lived heavy neutral leptons in proton-proton collision events with a lepton-jet pair associated with a secondary vertex at = 13 TeV\n\nDescription:\n\nA search for long-lived heavy neutral leptons (HNLs) using proton-proton collision data corresponding to an integrated luminosity of 138 fb− 1 collected at= 13 TeV with the CMS detector at the CERN LHC is presented. Events are selected with a charged lepton originating from the primary vertex associated with the proton-proton interaction, as well as a second charged lepton and a hadronic jet associated with a secondary vertex that corresponds to the semileptonic decay of a long-lived HNL. No excess of events above the standard model expectation is observed. Exclusion limits at 95% confidence level are evaluated for HNLs that mix with electron and/or muon neutrinos. Limits are presented in the mass range of 1–16.5 GeV, with excluded square mixing parameter values reaching as low as 2× 10− 7. For masses above 11 GeV, the presented limits exceed all previous results in the semileptonic decay channel …\n\nTitle: The effect of radiation damage on the light yield and uniformity of candidate plastic scintillator tiles for the CMS hadron calorimeter upgrade\n\nDescription:\n\nA study has been performed to understand the effects of radiation damage on various plastic scintillator tiles considered for a possible upgrade of the hadron calorimeter of the CMS detector. Measurements were made with unirradiated tiles and with tiles that had been irradiated in the CMS collision hall to a dose of 44 kGy. Results are presented for the tiles of different shapes in terms of the energy spectrum, efficiency as a function of the position at which each tile was hit, as well as light yield. All the tiles showed a light reduction of up to about 50%. The tiles with the shape currently used in the CMS detector did not see increased non-uniformity of light collection, while a significant disuniformity was observed for the tiles considered as alternatives.\n\n', 'gs_link': 'https://scholar.google.com/citations?hl=en&user=miOPDIcAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'eno@umd.edu', 'body_resume': None, 'middle_name_initial': 'C.', 'added_to_pinecone': False}], count=None)
+Title: forCB March35th2025 with 416 character long description
+--------------------------------------------------
+[Publications]: Waiting 86.0 seconds before processing publication: Small- evolution of gluon fields from incoherent photoproduction in ultraperipheral PbPb collisions
+[Publications] Processing publication: Small- evolution of gluon fields from incoherent photoproduction in ultraperipheral PbPb collisions
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Small- evolution of gluon fields from incoherent photoproduction in ultraperipheral PbPb collisions with 1089 character long description
+--------------------------------------------------
+[Publications]: Waiting 53.4 seconds before processing publication: Observation of the charged-particle multiplicity dependence of in pPb collisions at 8.16 TeV
+[Publications] Processing publication: Observation of the charged-particle multiplicity dependence of in pPb collisions at 8.16 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Observation of the charged-particle multiplicity dependence of in pPb collisions at 8.16 TeV with 1139 character long description
+--------------------------------------------------
+[Publications]: Waiting 131.3 seconds before processing publication: Geant4 simulations of sampling and homogeneous hadronic calorimeters with dual readout for future colliders
+[Publications] Processing publication: Geant4 simulations of sampling and homogeneous hadronic calorimeters with dual readout for future colliders
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Geant4 simulations of sampling and homogeneous hadronic calorimeters with dual readout for future colliders
+[Publications]: Waiting 95.3 seconds before processing publication: The IDEA detector concept for FCC-ee
+[Publications] Processing publication: The IDEA detector concept for FCC-ee
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for The IDEA detector concept for FCC-ee
+[Publications]: Waiting 172.1 seconds before processing publication: arXiv: The IDEA detector concept for FCC-ee
+[Publications] Processing publication: arXiv: The IDEA detector concept for FCC-ee
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: arXiv: The IDEA detector concept for FCC-ee with 708 character long description
+--------------------------------------------------
+[Publications]: Waiting 141.4 seconds before processing publication: Search for medium effects using jet axis decorrelation in inclusive jets from PbPb collisions at 5.02 TeV
+[Publications] Processing publication: Search for medium effects using jet axis decorrelation in inclusive jets from PbPb collisions at 5.02 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Search for medium effects using jet axis decorrelation in inclusive jets from PbPb collisions at 5.02 TeV with 1166 character long description
+--------------------------------------------------
+[Publications]: Waiting 159.3 seconds before processing publication: Observation of hyperon local polarization in pPb collisions at 8.16 TeV
+[Publications] Processing publication: Observation of hyperon local polarization in pPb collisions at 8.16 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Observation of hyperon local polarization in pPb collisions at 8.16 TeV with 970 character long description
+--------------------------------------------------
+[Publications]: Waiting 104.7 seconds before processing publication: Evidence for similar collectivity of high transverse momentum particles in pPb and PbPb collisions
+[Publications] Processing publication: Evidence for similar collectivity of high transverse momentum particles in pPb and PbPb collisions
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Evidence for similar collectivity of high transverse momentum particles in pPb and PbPb collisions with 813 character long description
+--------------------------------------------------
+[Publications]: Waiting 131.6 seconds before processing publication: Search for production and constraints on the Yukawa couplings of light quarks to the Higgs boson
+[Publications] Processing publication: Search for production and constraints on the Yukawa couplings of light quarks to the Higgs boson
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Search for production and constraints on the Yukawa couplings of light quarks to the Higgs boson with 1220 character long description
+--------------------------------------------------
+[Publications]: Waiting 94.1 seconds before processing publication: Search for long-lived heavy neutral leptons in proton-proton collision events with a lepton-jet pair associated with a secondary vertex at = 13 TeV
+[Publications] Processing publication: Search for long-lived heavy neutral leptons in proton-proton collision events with a lepton-jet pair associated with a secondary vertex at = 13 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Search for long-lived heavy neutral leptons in proton-proton collision events with a lepton-jet pair associated with a secondary vertex at = 13 TeV with 911 character long description
+--------------------------------------------------
+[Publications]: Waiting 156.2 seconds before processing publication: Measurement of inclusive and differential cross sections for W+ W− production in proton-proton collisions at s= 13.6 TeV
+[Publications] Processing publication: Measurement of inclusive and differential cross sections for W+ W− production in proton-proton collisions at s= 13.6 TeV
+[Publications] Got Driver
+[Publications] Set Up Wait
+[Publications] Timeout waiting for publication body for Measurement of inclusive and differential cross sections for W+ W− production in proton-proton collisions at s= 13.6 TeV
+[Publications]: Waiting 59.0 seconds before processing publication: The effect of radiation damage on the light yield and uniformity of candidate plastic scintillator tiles for the CMS hadron calorimeter upgrade
+[Publications] Processing publication: The effect of radiation damage on the light yield and uniformity of candidate plastic scintillator tiles for the CMS hadron calorimeter upgrade
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: The effect of radiation damage on the light yield and uniformity of candidate plastic scintillator tiles for the CMS hadron calorimeter upgrade with 773 character long description
+--------------------------------------------------
+==================================================
+[Publications] Got Embedding Text for Sarah C. Eno (10 publications):
+Title: forCB March35th2025
+
+Description:
+
+Different types of calorimeters are proposed for experiments for future fixed-target facilities, electroweak and Higgs factories ([1, 2, 3, 4, 5]), hadron ([6...
+==================================================
+[Publications]: Waiting 44.4 seconds before processing publications for Ben Shneiderman
+[Publications] Setting up driver for Ben Shneiderman
+[Publications] Processing Publications of Ben Shneiderman at umd:
+[Publications]: Waiting 114.2 seconds before processing publication: The churns and turns of HCI: Which CHI papers make the most impact in an ever-growing sea of HCI publications?
+[Publications] Processing publication: The churns and turns of HCI: Which CHI papers make the most impact in an ever-growing sea of HCI publications?
+[Main] Putting Alexey V. Gorshkov at https://scholar.google.com/citations?hl=en&user=DAEvllcAAAAJ in profile queue
+[Main]: Waiting 10.4 seconds before next professor
+[Main] Found Mark Shirtliff at https://scholar.google.com/citations?hl=en&user=_3nR_n0AAAAJ
+[Main] Putting Mark Shirtliff at https://scholar.google.com/citations?hl=en&user=_3nR_n0AAAAJ in profile queue
+[Main]: Waiting 15.0 seconds before next professor
+[Main] Found Jeffery B. Klauda at https://scholar.google.com/citations?hl=en&user=RDQS4I4AAAAJ
+[Main] Putting Jeffery B. Klauda at https://scholar.google.com/citations?hl=en&user=RDQS4I4AAAAJ in profile queue
+[Main]: Waiting 13.0 seconds before next professor
+[Main] Found O. Colin Stine at https://scholar.google.com/citations?hl=en&user=2iMZJIQAAAAJ
+[Main] Putting O. Colin Stine at https://scholar.google.com/citations?hl=en&user=2iMZJIQAAAAJ in profile queue
+[Main]: Waiting 6.3 seconds before next professor
+[Main] Found Ernst Bob at https://scholar.google.com/citations?hl=en&user=zKxYNNsAAAAJ
+[Main] Putting Ernst Bob at https://scholar.google.com/citations?hl=en&user=zKxYNNsAAAAJ in profile queue
+[Main]: Waiting 11.9 seconds before next professor
+[Main] Found Peter Carruthers at https://scholar.google.com/citations?hl=en&user=2JF8VWYAAAAJ
+[Main] Putting Peter Carruthers at https://scholar.google.com/citations?hl=en&user=2JF8VWYAAAAJ in profile queue
+[Main]: Waiting 8.1 seconds before next professor
+[Main]: Waiting 157.8 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 44.0 seconds before loading page
+[Main] Found Roy A. Mariuzza at https://scholar.google.com/citations?hl=en&user=92MCgKYAAAAJ
+[Main] Putting Roy A. Mariuzza at https://scholar.google.com/citations?hl=en&user=92MCgKYAAAAJ in profile queue
+[Main]: Waiting 7.8 seconds before next professor
+[Main] Found Rosemary Kozar at https://scholar.google.com/citations?hl=en&user=y7_71S8AAAAJ
+[Main] Putting Rosemary Kozar at https://scholar.google.com/citations?hl=en&user=y7_71S8AAAAJ in profile queue
+[Main]: Waiting 10.2 seconds before next professor
+[Main] Found Shihab Shamma at https://scholar.google.com/citations?hl=en&user=v2Be3Y8AAAAJ
+[Main] Putting Shihab Shamma at https://scholar.google.com/citations?hl=en&user=v2Be3Y8AAAAJ in profile queue
+[Main]: Waiting 7.1 seconds before next professor
+[Main] Found Ashwani K. Gupta at https://scholar.google.com/citations?hl=en&user=7dix8tUAAAAJ
+[Main] Putting Ashwani K. Gupta at https://scholar.google.com/citations?hl=en&user=7dix8tUAAAAJ in profile queue
+[Main]: Waiting 6.8 seconds before next professor
+[Main] Found Melanie Killen at https://scholar.google.com/citations?hl=en&user=2KTCLj0AAAAJ
+[Main] Putting Melanie Killen at https://scholar.google.com/citations?hl=en&user=2KTCLj0AAAAJ in profile queue
+[Main]: Waiting 10.4 seconds before next professor
+[Main] Found Michael Weir at https://scholar.google.com/citations?hl=en&user=5A9UNugAAAAJ
+[Main] Putting Michael Weir at https://scholar.google.com/citations?hl=en&user=5A9UNugAAAAJ in profile queue
+[Main]: Waiting 6.5 seconds before next professor
+[Main] Found Oscar Barbarin at https://scholar.google.com/citations?hl=en&user=c9BbRbYAAAAJ
+[Main] Putting Oscar Barbarin at https://scholar.google.com/citations?hl=en&user=c9BbRbYAAAAJ in profile queue
+[Main]: Waiting 13.8 seconds before next professor
+[Main] Found John D. Sorkin at https://scholar.google.com/citations?hl=en&user=jMa_u8AAAAAJ
+[Main] Putting John D. Sorkin at https://scholar.google.com/citations?hl=en&user=jMa_u8AAAAAJ in profile queue
+[Main]: Waiting 11.2 seconds before next professor
+[Main] Found Chengquan Huang at https://scholar.google.com/citations?hl=en&user=4AH9mYQAAAAJ
+[Main] Putting Chengquan Huang at https://scholar.google.com/citations?hl=en&user=4AH9mYQAAAAJ in profile queue
+[Main]: Waiting 12.0 seconds before next professor
+[Main] Found Aarabi B at https://scholar.google.com/citations?hl=en&user=NEBsjF4AAAAJ
+[Main] Putting Aarabi B at https://scholar.google.com/citations?hl=en&user=NEBsjF4AAAAJ in profile queue
+[Main]: Waiting 6.8 seconds before next professor
+[Main]: Waiting 144.0 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 107.0 seconds before loading page
+[Main] Found Anup Mahurkar at https://scholar.google.com/citations?hl=en&user=Ly5RsMsAAAAJ
+[Main] Putting Anup Mahurkar at https://scholar.google.com/citations?hl=en&user=Ly5RsMsAAAAJ in profile queue
+[Main]: Waiting 8.0 seconds before next professor
+[Main] Found Stefano Bertone at https://scholar.google.com/citations?hl=en&user=HHGvhJMAAAAJ
+[Main] Putting Stefano Bertone at https://scholar.google.com/citations?hl=en&user=HHGvhJMAAAAJ in profile queue
+[Main]: Waiting 11.4 seconds before next professor
+[Main] Found Donald Boesch at https://scholar.google.com/citations?hl=en&user=ARkaE6cAAAAJ
+[Main] Putting Donald Boesch at https://scholar.google.com/citations?hl=en&user=ARkaE6cAAAAJ in profile queue
+[Main]: Waiting 14.5 seconds before next professor
+[Main] Found Hui Liao at https://scholar.google.com/citations?hl=en&user=pXOaDTQAAAAJ
+[Main] Putting Hui Liao at https://scholar.google.com/citations?hl=en&user=pXOaDTQAAAAJ in profile queue
+[Main]: Waiting 5.3 seconds before next professor
+[Main] Found Brown Michael at https://scholar.google.com/citations?hl=en&user=vnPsf2QAAAAJ
+[Main] Putting Brown Michael at https://scholar.google.com/citations?hl=en&user=vnPsf2QAAAAJ in profile queue
+[Main]: Waiting 7.1 seconds before next professor
+[Main] Found Howard Dubowitz at https://scholar.google.com/citations?hl=en&user=3svs_uAAAAAJ
+[Main] Putting Howard Dubowitz at https://scholar.google.com/citations?hl=en&user=3svs_uAAAAAJ in profile queue
+[Main]: Waiting 10.5 seconds before next professor
+[Main] Found Amelia Arria at https://scholar.google.com/citations?hl=en&user=8Glp0JAAAAAJ
+[Main] Putting Amelia Arria at https://scholar.google.com/citations?hl=en&user=8Glp0JAAAAAJ in profile queue
+[Main]: Waiting 6.9 seconds before next professor
+[Main] Found Perrotti Danilo at https://scholar.google.com/citations?hl=en&user=ayjtgNwAAAAJ
+[Main] Putting Perrotti Danilo at https://scholar.google.com/citations?hl=en&user=ayjtgNwAAAAJ in profile queue
+[Main]: Waiting 8.9 seconds before next professor
+[Main] Found John D. Weeks at https://scholar.google.com/citations?hl=en&user=2w06tQsAAAAJ
+[Main] Putting John D. Weeks at https://scholar.google.com/citations?hl=en&user=2w06tQsAAAAJ in profile queue
+[Main]: Waiting 11.8 seconds before next professor
+[Main] Found Teng Li at https://scholar.google.com/citations?hl=en&user=6YjUuQUAAAAJ
+[Main] Putting Teng Li at https://scholar.google.com/citations?hl=en&user=6YjUuQUAAAAJ in profile queue
+[Main]: Waiting 9.7 seconds before next professor
+[Main]: Waiting 178.4 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 105.4 seconds before loading page
+[Main] Found Christopher Jarzynski at https://scholar.google.com/citations?hl=en&user=tsE4hDIAAAAJ
+[Main] Putting Christopher Jarzynski at https://scholar.google.com/citations?hl=en&user=tsE4hDIAAAAJ in profile queue
+[Main]: Waiting 13.6 seconds before next professor
+[Main] Found Alireza Khaligh at https://scholar.google.com/citations?hl=en&user=FtHTyvQAAAAJ
+[Main] Putting Alireza Khaligh at https://scholar.google.com/citations?hl=en&user=FtHTyvQAAAAJ in profile queue
+[Main]: Waiting 10.8 seconds before next professor
+[Main] Found Diane Stoecker at https://scholar.google.com/citations?hl=en&user=IUERoWEAAAAJ
+[Main] Putting Diane Stoecker at https://scholar.google.com/citations?hl=en&user=IUERoWEAAAAJ in profile queue
+[Main]: Waiting 10.1 seconds before next professor
+[Main] Found Peter Cramton at https://scholar.google.com/citations?hl=en&user=GHenqJMAAAAJ
+[Main] Putting Peter Cramton at https://scholar.google.com/citations?hl=en&user=GHenqJMAAAAJ in profile queue
+[Main]: Waiting 12.9 seconds before next professor
+[Main] Found Ashraf Badros at https://scholar.google.com/citations?hl=en&user=1QyF7sQAAAAJ
+[Main] Putting Ashraf Badros at https://scholar.google.com/citations?hl=en&user=1QyF7sQAAAAJ in profile queue
+[Main]: Waiting 14.4 seconds before next professor
+[Main] Found Srinivasa R. Raghavan at https://scholar.google.com/citations?hl=en&user=-KWyA_kAAAAJ
+[Main] Putting Srinivasa R. Raghavan at https://scholar.google.com/citations?hl=en&user=-KWyA_kAAAAJ in profile queue
+[Main]: Waiting 8.9 seconds before next professor
+[Main] Found Gregory R. Hancock at https://scholar.google.com/citations?hl=en&user=0I5WRWoAAAAJ
+[Main] Putting Gregory R. Hancock at https://scholar.google.com/citations?hl=en&user=0I5WRWoAAAAJ in profile queue
+[Main]: Waiting 13.1 seconds before next professor
+[Main] Found Michelle Shardell at https://scholar.google.com/citations?hl=en&user=aZUmHAcAAAAJ
+[Main] Putting Michelle Shardell at https://scholar.google.com/citations?hl=en&user=aZUmHAcAAAAJ in profile queue
+[Main]: Waiting 7.0 seconds before next professor
+[Main] Found Marian F. MacDorman at https://scholar.google.com/citations?hl=en&user=KKOP8oYAAAAJ
+[Main] Putting Marian F. MacDorman at https://scholar.google.com/citations?hl=en&user=KKOP8oYAAAAJ in profile queue
+[Main]: Waiting 5.8 seconds before next professor
+[Main] Found Jacqueline M. Grebmeier at https://scholar.google.com/citations?hl=en&user=E-9BF10AAAAJ
+[Main] Putting Jacqueline M. Grebmeier at https://scholar.google.com/citations?hl=en&user=E-9BF10AAAAJ in profile queue
+[Main]: Waiting 9.5 seconds before next professor
+[Main]: Waiting 152.8 seconds before next page
+[Main]: Clicked next page for umd
+[Main]: Waiting 38.8 seconds before loading page
+[Main] Found Aravind Srinivasan at https://scholar.google.com/citations?hl=en&user=sPzla6IAAAAJ
+[Main] Putting Aravind Srinivasan at https://scholar.google.com/citations?hl=en&user=sPzla6IAAAAJ in profile queue
+[Main]: Waiting 8.0 seconds before next professor
+[Main] Found Jennifer Golbeck at https://scholar.google.com/citations?hl=en&user=WBOnL7sAAAAJ
+[Main] Putting Jennifer Golbeck at https://scholar.google.com/citations?hl=en&user=WBOnL7sAAAAJ in profile queue
+[Main]: Waiting 8.7 seconds before next professor
+[Main]: Error processing professor element: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000102357b98 chromedriver + 195480
+4   chromedriver                        0x000000010237aa9c cxxbridge1$string$len + 142076
+5   chromedriver                        0x00000001023dd214 cxxbridge1$string$len + 545396
+6   chromedriver                        0x00000001023f5b50 cxxbridge1$string$len + 646064
+7   chromedriver                        0x00000001023a93f8 cxxbridge1$string$len + 332888
+8   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+9   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+10  chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+11  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+12  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+13  chromedriver                        0x00000001028202b0 cxxbridge1$str$ptr + 2731292
+14  chromedriver                        0x000000010282043c cxxbridge1$str$ptr + 2731688
+15  chromedriver                        0x00000001028302f4 cxxbridge1$str$ptr + 2796896
+16  libsystem_pthread.dylib             0x0000000183d46c0c _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000183d41b80 thread_start + 8
+
+[Main]: Error processing professor element: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Error processing professor element: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Error processing professor element: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Error processing professor element: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Error processing professor element: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Error processing professor element: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Error processing professor element: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Error clicking next button for umd: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x00000001028383e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001028306a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010236de30 cxxbridge1$string$len + 89744
+3   chromedriver                        0x00000001023a8858 cxxbridge1$string$len + 329912
+4   chromedriver                        0x00000001023d0c28 cxxbridge1$string$len + 494728
+5   chromedriver                        0x00000001023cff30 cxxbridge1$string$len + 491408
+6   chromedriver                        0x000000010233eb00 chromedriver + 92928
+7   chromedriver                        0x00000001027fc804 cxxbridge1$str$ptr + 2585200
+8   chromedriver                        0x00000001027ffad4 cxxbridge1$str$ptr + 2598208
+9   chromedriver                        0x00000001027dddd8 cxxbridge1$str$ptr + 2459716
+10  chromedriver                        0x000000010280034c cxxbridge1$str$ptr + 2600376
+11  chromedriver                        0x00000001027cf664 cxxbridge1$str$ptr + 2400464
+12  chromedriver                        0x000000010233cd9c chromedriver + 85404
+13  dyld                                0x00000001839a6b98 start + 6076
+
+[Main]: Finished processing all schools
+
+[Profile]: Waiting 19.7 seconds for page to load
+[Profile] Jude Cassidy has publications from 2025, processing...
+[Profile] Jude Cassidy is a valid researcher, getting email...
+[Profile] Jude Cassidy has email jcassidy@umd.edu
+[Profile] Queued 5 publications for Jude Cassidy
+[Profile]: Waiting 67.3 seconds before processing karen Kotloff
+[Profile] Processing karen Kotloff at https://scholar.google.com/citations?hl=en&user=adTLdD8AAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 13.5 seconds for page to load
+[Profile] karen Kotloff has publications from 2025, processing...
+[Profile] karen Kotloff is a valid researcher, getting email...
+[Profile] karen Kotloff has email kkotloff@som.umaryland.edu
+[Profile] Queued 14 publications for karen Kotloff
+[Profile]: Waiting 112.3 seconds before processing james m. gold
+[Profile] Processing james m. gold at https://scholar.google.com/citations?hl=en&user=ixU93NMAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 19.4 seconds for page to load
+[Profile] james m. gold has publications from 2025, processing...
+[Profile] james m. gold is a valid researcher, getting email...
+[Profile] james m. gold has email jgold@mprc.umaryland.edu
+[Profile] Queued 20 publications for james m. gold
+[Profile]: Waiting 164.3 seconds before processing Michelle Gwinn Giglio
+[Profile] Processing Michelle Gwinn Giglio at https://scholar.google.com/citations?hl=en&user=2FeogQsAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 14.6 seconds for page to load
+[Profile] Michelle Gwinn Giglio has no publications from 2025, skipping.
+[Profile]: Waiting 61.8 seconds before processing V Basili
+[Profile] Processing V Basili at https://scholar.google.com/citations?hl=en&user=B3C4aY8AAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 23.3 seconds for page to load
+[Profile] V Basili has publications from 2025, processing...
+[Profile] V Basili is a valid researcher, getting email...
+[Profile] V Basili has email basili@cs.umd.edu
+[Profile] Queued 2 publications for V Basili
+[Profile]: Waiting 120.2 seconds before processing Maureen Black
+[Profile] Processing Maureen Black at https://scholar.google.com/citations?hl=en&user=CZQTlEYAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 24.3 seconds for page to load
+[Profile] Maureen Black has publications from 2025, processing...
+[Profile] Maureen Black is a valid researcher, getting email...
+[Profile] Maureen Black has email mblack@som.umaryland.edu
+[Profile] Queued 14 publications for Maureen Black
+[Profile]: Waiting 49.8 seconds before processing Stefanie N. Vogel
+[Profile] Processing Stefanie N. Vogel at https://scholar.google.com/citations?hl=en&user=wwZmvtgAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 12.9 seconds for page to load
+[Profile] Stefanie N. Vogel has publications from 2025, processing...
+[Profile] Stefanie N. Vogel is a valid researcher, getting email...
+[Profile] Stefanie N. Vogel has email svogel@som.umaryland.edu
+[Profile] Queued 5 publications for Stefanie N. Vogel
+[Profile]: Waiting 173.4 seconds before processing Robert Adler
+[Profile] Processing Robert Adler at https://scholar.google.com/citations?hl=en&user=IA_mWBcAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 13.3 seconds for page to load
+[Profile] Robert Adler has publications from 2025, processing...
+[Profile] Robert Adler is a valid researcher, getting email...
+[Profile] Robert Adler has email radler@umd.edu
+[Profile] Queued 2 publications for Robert Adler
+[Profile]: Waiting 133.7 seconds before processing Muge Karagoz
+[Profile] Processing Muge Karagoz at https://scholar.google.com/citations?hl=en&user=sRva4OsAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 20.2 seconds for page to load
+[Profile] Muge Karagoz has no publications from 2025, skipping.
+[Profile]: Waiting 145.6 seconds before processing Alan Faden
+[Profile] Processing Alan Faden at https://scholar.google.com/citations?hl=en&user=ivutkckAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 11.6 seconds for page to load
+[Profile] Alan Faden has publications from 2025, processing...
+[Profile] Alan Faden is a valid researcher, getting email...
+[Profile] Alan Faden does not have email
+[Profile]: Waiting 103.0 seconds before processing Michelle Girvan
+[Profile] Processing Michelle Girvan at https://scholar.google.com/citations?hl=en&user=npKBI-oAAAAJ&view_op=list_works&sortby=pubdate
+[Profile]: Waiting 27.1 seconds for page to load
+[Profile] Michelle Girvan has publications from 2025, processing...
+[Profile] Michelle Girvan is a valid researcher, getting email...
+[Profile] Michelle Girvan has email girvan@umd.edu
+[Profile] Queued 2 publications for Michelle Girvan
+[Profile]: Waiting 125.7 seconds before processing William Blattner
+[Profile] Processing William Blattner at https://scholar.google.com/citations?hl=en&user=eILgJwcAAAAJ&view_op=list_works&sortby=pubdate
+[Profile] Failed to set up WebDriver for William Blattner: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x00000001051183e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x00000001051106a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x0000000104c4dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000104c465ac cxxbridge1$string$len + 58892
+4   chromedriver                        0x0000000104c3921c cxxbridge1$string$len + 4732
+5   chromedriver                        0x0000000104c3ac10 cxxbridge1$string$len + 11376
+6   chromedriver                        0x0000000104c39684 cxxbridge1$string$len + 5860
+7   chromedriver                        0x0000000104c38ff8 cxxbridge1$string$len + 4184
+8   chromedriver                        0x0000000104c38d44 cxxbridge1$string$len + 3492
+9   chromedriver                        0x0000000104c36b24 chromedriver + 191268
+10  chromedriver                        0x0000000104c37580 chromedriver + 193920
+11  chromedriver                        0x0000000104c51018 cxxbridge1$string$len + 102520
+12  chromedriver                        0x0000000104cd6ab0 cxxbridge1$string$len + 650000
+13  chromedriver                        0x0000000104cd6044 cxxbridge1$string$len + 647332
+14  chromedriver                        0x0000000104c893f8 cxxbridge1$string$len + 332888
+15  chromedriver                        0x00000001050dc804 cxxbridge1$str$ptr + 2585200
+16  chromedriver                        0x00000001050dfad4 cxxbridge1$str$ptr + 2598208
+17  chromedriver                        0x00000001050bddd8 cxxbridge1$str$ptr + 2459716
+18  chromedriver                        0x00000001050e034c cxxbridge1$str$ptr + 2600376
+19  chromedriver                        0x00000001050af664 cxxbridge1$str$ptr + 2400464
+20  chromedriver                        0x00000001051002b0 cxxbridge1$str$ptr + 2731292
+21  chromedriver                        0x000000010510043c cxxbridge1$str$ptr + 2731688
+22  chromedriver                        0x00000001051102f4 cxxbridge1$str$ptr + 2796896
+23  libsystem_pthread.dylib             0x0000000183d46c0c _pthread_start + 136
+24  libsystem_pthread.dylib             0x0000000183d41b80 thread_start + 8
+
+[Profile]: Waiting 97.4 seconds before processing WJ Lederer
+
+[Supabase Client] Updated professor: Sarah C. Eno's info
+[Postgres] Professor Sarah C. Eno's email info inserted into DB
+[Postgres] Inserting professor Stefanie N. Vogel into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '231086c6-2a9b-4775-a032-017e6dbdcdd4', 'first_name': 'Stefanie', 'last_name': 'Vogel', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=wwZmvtgAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'svogel@som.umaryland.edu', 'body_resume': None, 'middle_name_initial': 'N.', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Stefanie N. Vogel
+[Postgres] Professor Stefanie N. Vogel inserted into DB
+[Postgres] Adding email information for Ben Shneiderman into DB
+[Postgres] Job type is email_info
+[Supabase Client] Response for insert_embedding_text:
+APIResponse[TypeVar](data=[{'id': '23a6b94f-82f6-4a8d-a689-91aa9994cc3a', 'first_name': 'Ben', 'last_name': 'Shneiderman', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': 'Title: The churns and turns of HCI: Which CHI papers make the most impact in an ever-growing sea of HCI publications?\n\nDescription:\n\nThe ACM Conference on Human Factors in Computing Systems (CHI) is the premier venue for research in Human-Computer Interaction (HCI). 11,290 full papers have been published and collectively cited almost one million times. Highly cited papers undoubtedly represent influential work, affecting the creation of review standards and conference submission and acceptance practices within and beyond CHI. However, the factors contributing to high citation counts and what constitutes a highly cited CHI paper remain largely unclear. In this panel discussion, we will engage the CHI community in exploring the relationship between paper characteristics, citation numbers, and effective impact on HCI as a discipline, and on HCI as an influential endeavour in technology design and development. To ground this discussion, we present findings from a literature review of the 100 most cited CHI full papers, looking at past and present fields and subfields of influence. We will also share insights from HCI experts. Our goals are to shed light on the meaning of impactful work at CHI and in HCI more broadly, to reflect on key trends in HCI over the years, and to discuss themes that have driven pivotal shifts in HCI research. We will lead the conversation toward a deeper understanding of citation practices, the role of citations in focusing and driving HCI research, and the implications of citation when it comes to shaping what is considered impactful HCI.\n\nTitle: Commentary: the future of human-robot interactions\n\nDescription:\n\nService robots are poised for enormous impact helping to achieve the U.N Sustainable Development goals as well as supporting older adults and young learners. This article briefly explores these application areas in three invited commentaries written by leading scholars and an industry entrepreneur, expressing their varied perspectives on the future of service robots. The article accompanies this Journal of Service Research special issue on human-robot interactions. In their commentaries, the authors share views on areas of personal interest ranging from global grand challenges to healthy aging and educational development. Included within each commentary are managerial insights and suggestions for needed research in the highlighted area.\n\n', 'gs_link': 'https://scholar.google.com/citations?hl=en&user=h4i4fh8AAAAJ&view_op=list_works&sortby=pubdate', 'email': 'ben@cs.umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Updated professor: Ben Shneiderman's info
+[Postgres] Professor Ben Shneiderman's email info inserted into DB
+[Postgres] Inserting professor Robert Adler into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': '2d6018d6-012c-498e-a83e-3a85e0e7109b', 'first_name': 'Robert', 'last_name': 'Adler', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=IA_mWBcAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'radler@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Robert Adler
+[Postgres] Professor Robert Adler inserted into DB
+[Postgres] Inserting professor Michelle Girvan into DB
+[Postgres] Job type is basic_info
+[Supabase Client] Response for insert_professor:
+APIResponse[TypeVar](data=[{'id': 'a95da202-304c-4ef6-9269-81704a49abd1', 'first_name': 'Michelle', 'last_name': 'Girvan', 'subject_template': None, 'body': None, 'description': None, 'university': 'University of Maryland', 'serves': 0, 'embedding_text': None, 'gs_link': 'https://scholar.google.com/citations?hl=en&user=npKBI-oAAAAJ&view_op=list_works&sortby=pubdate', 'email': 'girvan@umd.edu', 'body_resume': None, 'middle_name_initial': '', 'added_to_pinecone': False}], count=None)
+[Supabase Client] Inserted professor: Michelle Girvan
+[Postgres] Professor Michelle Girvan inserted into DB
+
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: The churns and turns of HCI: Which CHI papers make the most impact in an ever-growing sea of HCI publications? with 1453 character long description
+--------------------------------------------------
+[Publications]: Waiting 66.7 seconds before processing publication: Commentary: the future of human-robot interactions
+[Publications] Processing publication: Commentary: the future of human-robot interactions
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Commentary: the future of human-robot interactions with 746 character long description
+--------------------------------------------------
+==================================================
+[Publications] Got Embedding Text for Ben Shneiderman (2 publications):
+Title: The churns and turns of HCI: Which CHI papers make the most impact in an ever-growing sea of HCI publications?
+
+Description:
+
+The ACM Conference on Human Factors in Computing Systems (CHI) is t...
+==================================================
+[Publications]: Waiting 159.3 seconds before processing publications for Alexander MacKerell
+[Publications] Setting up driver for Alexander MacKerell
+[Publications] Processing Publications of Alexander MacKerell at umd:
+[Publications]: Waiting 76.8 seconds before processing publication: Non‐Covalent Molecular Interaction Rules to Define Internal Dimer Coordinates for Quantum Mechanical Potential Energy Scans
+[Publications] Processing publication: Non‐Covalent Molecular Interaction Rules to Define Internal Dimer Coordinates for Quantum Mechanical Potential Energy Scans
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Non‐Covalent Molecular Interaction Rules to Define Internal Dimer Coordinates for Quantum Mechanical Potential Energy Scans with 924 character long description
+--------------------------------------------------
+[Publications]: Waiting 158.4 seconds before processing publication: Novel Compounds Targeting the Mitogen-activated Protein Kinase (MAPK)-activated Protein Kinase-2 (MK2) Binding Site in P38alpha MAPK Exert Distinct Anti-inflammatory Effects on …
+[Publications] Processing publication: Novel Compounds Targeting the Mitogen-activated Protein Kinase (MAPK)-activated Protein Kinase-2 (MK2) Binding Site in P38alpha MAPK Exert Distinct Anti-inflammatory Effects on …
+[Publications] Got Driver
+[Publications] Set Up Wait
+--------------------------------------------------
+[Publications] Reading Publication
+Title: Novel Compounds Targeting the Mitogen-activated Protein Kinase (MAPK)-activated Protein Kinase-2 (MK2) Binding Site in P38alpha MAPK Exert Distinct Anti-inflammatory Effects on … with 905 character long description
+--------------------------------------------------
+[Publications]: Waiting 93.9 seconds before processing publication: Abstract LB320: Broad and synergistic anti-tumor effects of small-molecule dual HIF-1/2 inhibitors in combination with immune checkpoint inhibitors
+[Publications] Processing publication: Abstract LB320: Broad and synergistic anti-tumor effects of small-molecule dual HIF-1/2 inhibitors in combination with immune checkpoint inhibitors
+[Publications] WebDriver error processing Abstract LB320: Broad and synergistic anti-tumor effects of small-molecule dual HIF-1/2 inhibitors in combination with immune checkpoint inhibitors: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   chromedriver                        0x0000000100de83e0 cxxbridge1$str$ptr + 2829900
+1   chromedriver                        0x0000000100de06a8 cxxbridge1$str$ptr + 2797844
+2   chromedriver                        0x000000010091dfbc cxxbridge1$string$len + 90140
+3   chromedriver                        0x0000000100907b98 chromedriver + 195480
+4   chromedriver                        0x000000010092aa9c cxxbridge1$string$len + 142076
+5   chromedriver                        0x000000010098d214 cxxbridge1$string$len + 545396
+6   chromedriver                        0x00000001009a5b50 cxxbridge1$string$len + 646064
+7   chromedriver                        0x00000001009593f8 cxxbridge1$string$len + 332888
+8   chromedriver                        0x0000000100dac804 cxxbridge1$str$ptr + 2585200
+9   chromedriver                        0x0000000100dafad4 cxxbridge1$str$ptr + 2598208
+10  chromedriver                        0x0000000100d8ddd8 cxxbridge1$str$ptr + 2459716
+11  chromedriver                        0x0000000100db034c cxxbridge1$str$ptr + 2600376
+12  chromedriver                        0x0000000100d7f664 cxxbridge1$str$ptr + 2400464
+13  chromedriver                        0x0000000100dd02b0 cxxbridge1$str$ptr + 2731292
+14  chromedriver                        0x0000000100dd043c cxxbridge1$str$ptr + 2731688
+15  chromedriver                        0x0000000100de02f4 cxxbridge1$str$ptr + 2796896
+16  libsystem_pthread.dylib             0x0000000183d46c0c _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000183d41b80 thread_start + 8
+
+[Publications]: Waiting 163.0 seconds before processing publication: Inhibitors of extracellular signal-regulated kinase

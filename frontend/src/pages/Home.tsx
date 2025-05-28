@@ -1,7 +1,7 @@
 import ChatBox from "../components/ChatBox";
 import React, { useState } from "react";
-import { Copy, Menu, Pencil } from "lucide-react";
-import { Button } from "@/components/ui/button";
+// import { Copy, Menu, Pencil } from "lucide-react";
+// import { Button } from "@/components/ui/button";
 import { Professor } from "../../types/professor";
 import ProfCard from "../components/ProfCard";
 import EmailForm from "../components/EmailForm";
@@ -94,12 +94,12 @@ export default function Home() {
     setValue(e.target.value);
   };
 
-  const handleRerun = () => {
-    setIsLoading(true);
-    setTimeout(() => {
-      setIsLoading(false);
-    }, 1000);
-  };
+  // const handleRerun = () => {
+  //   setIsLoading(true);
+  //   setTimeout(() => {
+  //     setIsLoading(false);
+  //   }, 1000);
+  // };
 
   const handleDropdownChange = (value: string) => {
     setDropdownValue(value);
@@ -147,10 +147,10 @@ export default function Home() {
   };
 
   // Dummy handlers for top bar buttons
-  const handleSidebar = () => console.log("Sidebar");
-  const handleEdit = () => console.log("New Chat");
-  const handleLogin = () => console.log("Login");
-  const handleSignup = () => console.log("Sign Up");
+  // const handleSidebar = () => console.log("Sidebar");
+  // const handleEdit = () => console.log("New Chat");
+  // const handleLogin = () => console.log("Login");
+  // const handleSignup = () => console.log("Sign Up");
   // const handleLogout = () => console.log("Logout");
   const handleGscholar = (url: string) => {
     window.open(url, "_blank");
@@ -230,7 +230,6 @@ export default function Home() {
             dropdownValue={dropdownValue}
             onDropdownChange={handleDropdownChange}
             onSend={handleSend}
-            onRerun={handleRerun}
             dropdownOptions={dropdownOptions}
             abbrMap={abbrMap}
             credits={credits}

@@ -1,14 +1,15 @@
-from dotenv import dotenv_values
 from supabase import create_client, Client
 import re
 from pprint import pprint
 from models import Professor
+import os
+from dotenv import load_dotenv
 
-config = dotenv_values(".env")
+load_dotenv()
 
 supabase: Client = create_client(
-    config["SUPABASE_URL"],
-    config["SUPABASE_KEY"],
+    os.getenv("SUPABASE_URL"),
+    os.getenv("SUPABASE_KEY"),
 )
 
 def get_professors(uuids: list[str]) -> list[Professor]:

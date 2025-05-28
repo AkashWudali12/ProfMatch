@@ -2,14 +2,17 @@ from models import Professor
 import logging
 from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone
-from dotenv import dotenv_values
 from universities import NAME_TO_ABBR
 from pprint import pprint
 from supabase_client import get_professors
 
-config = dotenv_values(".env")
-pc = Pinecone(api_key=config["PINECONE_API_KEY"])
-index = pc.Index(config["PINECONE_INDEX"])
+import os 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
+index = pc.Index(os.getenv("PINECONE_INDEX"))
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 

@@ -12,9 +12,9 @@ def valid_researcher(name, affiliation):
     retired_query = f"Is {name}, researcher at {affiliation}, not retired, and not a professor emeritus?"
     affiliation_query = f"Is {name} a researcher affiliated with {affiliation}?"
     celebrity_query = f"Is {name}, researcher at {affiliation}, not a celebrity researcher. Only say No if they are extremely well known by the general public."
-    willingness_query = f"Would {name}, researcher at {affiliation}, be potentially willing to mentor or work with undergraduate students?"
+    # willingness_query = f"Would {name}, researcher at {affiliation}, be potentially willing to mentor or work with undergraduate students?"
 
-    for query in [researcher_query, retired_query, willingness_query, celebrity_query, affiliation_query]:
+    for query in [researcher_query, retired_query, celebrity_query, affiliation_query]:
         payload = { 
             "model": "sonar",
             "messages": [

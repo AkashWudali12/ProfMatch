@@ -14,7 +14,6 @@ interface ChatBoxProps {
   dropdownValue: string;
   onDropdownChange: (value: string) => void;
   onSend: () => void;
-  onRerun: () => void;
   dropdownOptions: string[];
   abbrMap: Record<string, string>;
   credits: number;
@@ -28,7 +27,6 @@ export const ChatBox: React.FC<ChatBoxProps> = ({
   dropdownValue,
   onDropdownChange,
   onSend,
-  onRerun,
   dropdownOptions,
   abbrMap,
   credits,

@@ -98,10 +98,8 @@ def insert_embedding_text(school, name, embedding_text):
         return ""
 
 def get_missing_professors():
-    # response = supabase.table("professors").select("*").is_("description", "null").eq("added_to_pinecone", False).not_.is_("university", "null").not_.is_("first_name", "null").not_.is_("last_name", "null").not_.is_("email", "null").not_.is_("gs_link", "null").not_.is_("embedding_text", "null").execute()
+    response = supabase.table("professors").select("*").is_("description", "null").eq("added_to_pinecone", False).not_.is_("university", "null").not_.is_("first_name", "null").not_.is_("last_name", "null").not_.is_("email", "null").not_.is_("gs_link", "null").not_.is_("embedding_text", "null").execute()
 
-    # for testing purposes, will not include embedding_text requirement
-    response = supabase.table("professors").select("*").is_("description", "null").eq("added_to_pinecone", False).not_.is_("university", "null").not_.is_("first_name", "null").not_.is_("last_name", "null").not_.is_("email", "null").not_.is_("gs_link", "null").execute()
     print(f"[Supabase Client] Response for get_missing_professors:")
     print(len(response.data))
     if len(response.data) != 0:
