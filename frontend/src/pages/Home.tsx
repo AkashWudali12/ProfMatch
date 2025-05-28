@@ -107,7 +107,7 @@ export default function Home() {
 
   const handleSend = async () => {
     setIsLoading(true);
-    const queryProfessorsUrl = import.meta.env.VITE_QUERY_PROFESSORS_URL;
+    const queryProfessorsUrl = import.meta.env.VITE_QUERY_PROFESSORS_URL_PROD;
     const response = await fetch(queryProfessorsUrl, {
       method: "POST",
       headers: {
