@@ -6,7 +6,7 @@ Find your next research opportunity with AI-powered professor matching.
 
 ProfMatch simplifies the process of finding research opportunities by using AI to match students with active professors based on research interests. No more navigating outdated academic directories or spending hours searching through scattered information.
 
-Try it now: [ProfMatch App](https://profmatch.up.railway.app/)
+Try it now: [ProfMatch App](https://profmatch.cc/)
 
 ## Features ✨
 
