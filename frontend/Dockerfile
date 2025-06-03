@@ -8,7 +8,8 @@ RUN npm install
 
 COPY . .
 
-ARG VITE_QUERY_PROFESSORS_URL_PROD=https://profmatch-production.up.railway.app/get_professors
+# ARG VITE_QUERY_PROFESSORS_URL_PROD=https://profmatch-production.up.railway.app/get_professors
+ARG VITE_QUERY_PROFESSORS_URL_PROD=http://localhost:8000/get_professors
 
 ENV VITE_QUERY_PROFESSORS_URL_PROD=${VITE_QUERY_PROFESSORS_URL_PROD}
 
