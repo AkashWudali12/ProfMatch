@@ -14,7 +14,10 @@ supabase: Client = create_client(
 
 def get_professors(uuids: list[str]) -> list[Professor]:
     # Get all matching professors and order by serves count
-    response = supabase.table("professors").select("*").in_("id", uuids).order("serves").execute()
+    # response = supabase.table("professors").select("*").in_("id", uuids).order("serves").execute()
+
+    response = supabase.table("professors").select("*").in_("id", uuids).execute()
+    print("Response: ", response)
     
     # Take only the first 10 least served professors
     professors_to_use = response.data[:10]

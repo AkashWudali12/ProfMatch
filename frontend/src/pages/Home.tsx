@@ -61,12 +61,13 @@ export default function Home() {
     
     if (lastReset !== today) {
       // New day - reset to 5 credits
-      localStorage.setItem('dailyCredits', '5');
+      localStorage.setItem('dailyCredits', '10000');
       localStorage.setItem('lastResetDate', today);
       return 5;
     } else {
       // Same day - use stored credits
-      return parseInt(localStorage.getItem('dailyCredits') || '5');
+      // temporarily set to 10000 credits for dev purposes
+      return parseInt('10000');
     }
   });
 
