@@ -177,7 +177,7 @@ python gs_scraper.py
 - [ ] Potential Golang rewrite for improved performance
 
 ### Business Development
-- [ x ] User feedback collection
+- [x] User feedback collection
 - [ ] Expansion to new user segments:
   - High school/undergraduate researchers
   - Graduate students
