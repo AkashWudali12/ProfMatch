@@ -8,6 +8,8 @@ ProfMatch simplifies the process of finding research opportunities by using AI t
 
 Try it now: [ProfMatch App](https://profmatch.cc/)
 
+Watch the demo video: [Demo](https://www.youtube.com/watch?v=kCtPIxVxh3I)
+
 ## Features ✨
 
 - Natural language search for research interests
